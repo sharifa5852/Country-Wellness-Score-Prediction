@@ -1,0 +1,4 @@
+stage,rows,countries
+before enrichment (existing pipeline),1897,159
+"after enrichment, LEFT merge (features may have NaN)",1897,159
+"after enrichment, INNER merge (all 4 features required)",1414,148

@@ -1,0 +1,4 @@
+split,rows,countries,UnemploymentRate_WB_coverage_pct,InternetAccessPct_WB_coverage_pct,HealthExpenditurePctGDP_WB_coverage_pct
+train (<=2021),1481,159,100.0,98.99,99.19
+val (2022),134,134,99.25,97.76,98.51
+test (2023),139,139,98.56,97.12,98.56

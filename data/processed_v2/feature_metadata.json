@@ -1,0 +1,302 @@
+{
+  "feature_order": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB",
+    "HappinessScore_lag1",
+    "log_GDPPerCapita_WB_lag1",
+    "UnemploymentRate_WB_lag1",
+    "InternetAccessPct_WB_lag1",
+    "HealthExpenditurePctGDP_WB_lag1",
+    "HappinessScore_lag2",
+    "log_GDPPerCapita_WB_lag2",
+    "UnemploymentRate_WB_lag2",
+    "InternetAccessPct_WB_lag2",
+    "HealthExpenditurePctGDP_WB_lag2",
+    "UnemploymentRate_WB_was_missing",
+    "InternetAccessPct_WB_was_missing",
+    "HealthExpenditurePctGDP_WB_was_missing"
+  ],
+  "continuous_scaled_columns": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB",
+    "HappinessScore_lag1",
+    "log_GDPPerCapita_WB_lag1",
+    "UnemploymentRate_WB_lag1",
+    "InternetAccessPct_WB_lag1",
+    "HealthExpenditurePctGDP_WB_lag1",
+    "HappinessScore_lag2",
+    "log_GDPPerCapita_WB_lag2",
+    "UnemploymentRate_WB_lag2",
+    "InternetAccessPct_WB_lag2",
+    "HealthExpenditurePctGDP_WB_lag2"
+  ],
+  "binary_flag_columns": [
+    "UnemploymentRate_WB_was_missing",
+    "InternetAccessPct_WB_was_missing",
+    "HealthExpenditurePctGDP_WB_was_missing"
+  ],
+  "lstm_timesteps_oldest_to_newest": [
+    "t-2",
+    "t-1",
+    "t"
+  ],
+  "lstm_features": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB"
+  ],
+  "persistence_baseline_column": "HappinessScore",
+  "columns": [
+    {
+      "name": "HappinessScore",
+      "role": "feature",
+      "meaning": "WHR Cantril ladder average, 0-10",
+      "source": "OWID/WHR",
+      "unit": "points",
+      "lag": "t (current year)",
+      "transformation": "none",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "log_GDPPerCapita_WB",
+      "role": "feature",
+      "meaning": "GDP per capita (PPP, World Bank)",
+      "source": "OWID/World Bank",
+      "unit": "ln(international $)",
+      "lag": "t (current year)",
+      "transformation": "natural log; GDP verified > 0",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "UnemploymentRate_WB",
+      "role": "feature",
+      "meaning": "Unemployment rate",
+      "source": "OWID/World Bank (SL.UEM.TOTL.ZS)",
+      "unit": "% of labour force",
+      "lag": "t (current year)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "InternetAccessPct_WB",
+      "role": "feature",
+      "meaning": "Individuals using the internet",
+      "source": "OWID/World Bank (IT.NET.USER.ZS)",
+      "unit": "% of population",
+      "lag": "t (current year)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "HealthExpenditurePctGDP_WB",
+      "role": "feature",
+      "meaning": "Current health expenditure",
+      "source": "OWID (WHO GHED)",
+      "unit": "% of GDP",
+      "lag": "t (current year)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "HappinessScore_lag1",
+      "role": "feature",
+      "meaning": "WHR Cantril ladder average, 0-10",
+      "source": "OWID/WHR",
+      "unit": "points",
+      "lag": "t-1 (calendar)",
+      "transformation": "none",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "log_GDPPerCapita_WB_lag1",
+      "role": "feature",
+      "meaning": "GDP per capita (PPP, World Bank)",
+      "source": "OWID/World Bank",
+      "unit": "ln(international $)",
+      "lag": "t-1 (calendar)",
+      "transformation": "natural log; GDP verified > 0",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "UnemploymentRate_WB_lag1",
+      "role": "feature",
+      "meaning": "Unemployment rate",
+      "source": "OWID/World Bank (SL.UEM.TOTL.ZS)",
+      "unit": "% of labour force",
+      "lag": "t-1 (calendar)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "InternetAccessPct_WB_lag1",
+      "role": "feature",
+      "meaning": "Individuals using the internet",
+      "source": "OWID/World Bank (IT.NET.USER.ZS)",
+      "unit": "% of population",
+      "lag": "t-1 (calendar)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "HealthExpenditurePctGDP_WB_lag1",
+      "role": "feature",
+      "meaning": "Current health expenditure",
+      "source": "OWID (WHO GHED)",
+      "unit": "% of GDP",
+      "lag": "t-1 (calendar)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "HappinessScore_lag2",
+      "role": "feature",
+      "meaning": "WHR Cantril ladder average, 0-10",
+      "source": "OWID/WHR",
+      "unit": "points",
+      "lag": "t-2 (calendar)",
+      "transformation": "none",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "log_GDPPerCapita_WB_lag2",
+      "role": "feature",
+      "meaning": "GDP per capita (PPP, World Bank)",
+      "source": "OWID/World Bank",
+      "unit": "ln(international $)",
+      "lag": "t-2 (calendar)",
+      "transformation": "natural log; GDP verified > 0",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "UnemploymentRate_WB_lag2",
+      "role": "feature",
+      "meaning": "Unemployment rate",
+      "source": "OWID/World Bank (SL.UEM.TOTL.ZS)",
+      "unit": "% of labour force",
+      "lag": "t-2 (calendar)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "InternetAccessPct_WB_lag2",
+      "role": "feature",
+      "meaning": "Individuals using the internet",
+      "source": "OWID/World Bank (IT.NET.USER.ZS)",
+      "unit": "% of population",
+      "lag": "t-2 (calendar)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "HealthExpenditurePctGDP_WB_lag2",
+      "role": "feature",
+      "meaning": "Current health expenditure",
+      "source": "OWID (WHO GHED)",
+      "unit": "% of GDP",
+      "lag": "t-2 (calendar)",
+      "transformation": "none; past-only forward-fill <=2y, median train-imputed",
+      "scaled_for_linear": true,
+      "classical_models": true,
+      "lstm": true
+    },
+    {
+      "name": "UnemploymentRate_WB_was_missing",
+      "role": "feature",
+      "meaning": "1 if UnemploymentRate_WB was missing at year t in the source",
+      "source": "derived (CELL 19)",
+      "unit": "0/1",
+      "lag": "t",
+      "transformation": "none",
+      "scaled_for_linear": false,
+      "classical_models": true,
+      "lstm": false
+    },
+    {
+      "name": "InternetAccessPct_WB_was_missing",
+      "role": "feature",
+      "meaning": "1 if InternetAccessPct_WB was missing at year t in the source",
+      "source": "derived (CELL 19)",
+      "unit": "0/1",
+      "lag": "t",
+      "transformation": "none",
+      "scaled_for_linear": false,
+      "classical_models": true,
+      "lstm": false
+    },
+    {
+      "name": "HealthExpenditurePctGDP_WB_was_missing",
+      "role": "feature",
+      "meaning": "1 if HealthExpenditurePctGDP_WB was missing at year t in the source",
+      "source": "derived (CELL 19)",
+      "unit": "0/1",
+      "lag": "t",
+      "transformation": "none",
+      "scaled_for_linear": false,
+      "classical_models": true,
+      "lstm": false
+    },
+    {
+      "name": "HappinessScore_target",
+      "role": "TARGET",
+      "meaning": "WHR happiness at year t+1",
+      "unit": "points",
+      "transformation": "none, never scaled/imputed"
+    },
+    {
+      "name": "Country",
+      "role": "identifier"
+    },
+    {
+      "name": "Code",
+      "role": "identifier"
+    },
+    {
+      "name": "Year",
+      "role": "identifier (origin year t)"
+    },
+    {
+      "name": "TargetYear",
+      "role": "identifier (= Year+1)"
+    },
+    {
+      "name": "has_lag3",
+      "role": "metadata (real t-3 exists); NOT a model feature"
+    }
+  ]
+}

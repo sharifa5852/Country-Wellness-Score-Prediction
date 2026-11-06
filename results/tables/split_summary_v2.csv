@@ -1,0 +1,4 @@
+split,rows,countries,origin_min,origin_max,target_min,target_max,n_features,rows_with_any_NaN_feature,NaN_cells
+train,842,152,2016,2021,2017,2022,18,10,23
+val,133,133,2022,2022,2023,2023,18,1,3
+test,133,133,2023,2023,2024,2024,18,3,5

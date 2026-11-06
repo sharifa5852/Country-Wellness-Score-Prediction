@@ -1,0 +1,6 @@
+feature,overall_coverage_pct,test_year_coverage_pct,final_decision,reason
+UnemploymentRate_WB,99.68,98.56,KEEP,"High coverage, low redundancy (joint VIF 1.099)"
+InternetAccessPct_WB,98.73,97.12,KEEP,High coverage; corr with GDP 0.722 but joint VIF 2.430
+HealthExpenditurePctGDP_WB,91.62,98.56,KEEP,Coverage ok in all splits (joint VIF 1.530)
+EducationExpenditurePctGDP_WB,77.33,56.12,DROP (core),Test-year coverage 56.12%: weak exactly where we evaluate
+GiniIndex_WB,48.5,,DROP,Coverage 48.5% < 60% threshold

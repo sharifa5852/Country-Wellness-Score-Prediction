@@ -1,0 +1,37 @@
+{
+  "primary_rule": "STRICT",
+  "sensitivity_rule": "GRIDFILL (optional, only if time remains; 2013 may be filled only as a flagged lag, never as a target)",
+  "rejected": "Row-based groupby().shift(): misaligns target/lags around the missing 2013 (see temporal_alignment_audit_by_year.csv)",
+  "split_definition": {
+    "train_origin_max": 2021,
+    "val_origin": 2022,
+    "test_origin": 2023,
+    "test_target_year": 2024
+  },
+  "base_features": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB"
+  ],
+  "lags_included": [
+    0,
+    1,
+    2
+  ],
+  "covariate_fill": "past-only calendar forward-fill from the last REAL observation, max gap 2 years; HappinessScore is never filled; remaining NaN imputed by a TRAIN-fitted median (CELL 23)",
+  "random_seed": 42,
+  "sample_counts": {
+    "strict": {
+      "train (origin<=2021)": 842,
+      "val (origin=2022)": 133,
+      "test (origin=2023)": 133
+    },
+    "gridfill": {
+      "train (origin<=2021)": 1127,
+      "val (origin=2022)": 133,
+      "test (origin=2023)": 133
+    }
+  }
+}

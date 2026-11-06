@@ -1,0 +1,35 @@
+file,loaded_ok,detail,size_kb
+data/raw/whr_worldbank_merged.csv,True,"(1897, 5)",62.4
+data/raw/whr_worldbank_enriched.csv,True,"(1897, 8)",104.1
+data/processed_v2/enriched_filled.csv,True,"(1897, 11)",116.6
+data/processed_v2/supervised_all.csv,True,"(1108, 24)",195.8
+data/processed_v2/train.csv,True,"(842, 24)",148.8
+data/processed_v2/val.csv,True,"(133, 24)",23.9
+data/processed_v2/test.csv,True,"(133, 24)",23.9
+data/processed_v2/train_imputed.csv,True,"(842, 23)",152.3
+data/processed_v2/val_imputed.csv,True,"(133, 23)",24.5
+data/processed_v2/test_imputed.csv,True,"(133, 23)",24.4
+data/processed_v2/train_scaled.csv,True,"(842, 23)",276.3
+data/processed_v2/val_scaled.csv,True,"(133, 23)",43.9
+data/processed_v2/test_scaled.csv,True,"(133, 23)",43.8
+data/processed_v2/feature_spec.json,True,6 keys,1.1
+data/processed_v2/feature_metadata.json,True,7 keys,8.8
+data/processed_v2/preprocessing_metadata.json,True,12 keys,5.2
+data/processed_v2/dataset_metadata.json,True,7 keys,0.7
+data/processed_v2/lstm_sequences.npz,True,"(842, 3, 5)",83.0
+models/preprocessing/tabular_imputer.joblib,True,SimpleImputer,1.4
+models/preprocessing/tabular_scaler.joblib,True,StandardScaler,1.6
+models/preprocessing/lstm_imputer.joblib,True,SimpleImputer,0.9
+models/preprocessing/lstm_scaler.joblib,True,StandardScaler,1.1
+results/tables/temporal_strategy_decision.json,True,9 keys,1.1
+results/tables/missing_data_policy.json,True,7 keys,1.1
+results/tables/missing_value_policy_report.csv,True,"(3, 5)",0.3
+results/tables/temporal_alignment_audit_by_year.csv,True,"(13, 5)",0.3
+results/tables/country_gaps_other_than_global.csv,True,"(17, 5)",0.8
+results/tables/calendar_eligibility_by_origin_year.csv,True,"(13, 6)",0.3
+results/tables/eligibility_by_split.csv,True,"(6, 7)",0.3
+results/tables/coverage_by_year_enriched.csv,True,"(13, 5)",0.4
+results/tables/coverage_by_split_enriched.csv,True,"(3, 6)",0.2
+results/tables/feature_decisions_final.csv,True,"(5, 5)",0.5
+results/tables/supervised_validation_report.csv,True,"(1, 1)",0.0
+results/tables/split_summary_v2.csv,True,"(3, 10)",0.2

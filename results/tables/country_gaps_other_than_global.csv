@@ -1,0 +1,18 @@
+Code,Country,first_year,last_year,missing_years
+AZE,Azerbaijan,2011,2024,[2022]
+BLZ,Belize,2011,2024,"[2012, 2014, 2018, 2019, 2020, 2021, 2022, 2023]"
+CAF,Central African Republic,2011,2019,[2015]
+CIV,Cote d'Ivoire,2011,2024,[2012]
+COD,Democratic Republic of Congo,2011,2024,"[2020, 2021]"
+COM,Comoros,2011,2024,"[2016, 2017]"
+KWT,Kuwait,2011,2024,[2022]
+LAO,Laos,2011,2024,[2016]
+LBY,Libya,2011,2024,[2022]
+LSO,Lesotho,2012,2024,"[2015, 2022]"
+MOZ,Mozambique,2011,2024,[2015]
+NAM,Namibia,2011,2024,"[2012, 2014]"
+OMN,Oman,2012,2024,"[2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]"
+PRI,Puerto Rico,2011,2015,"[2012, 2014]"
+SOM,Somalia,2015,2024,"[2019, 2020, 2021, 2022, 2023]"
+SWZ,Eswatini,2012,2024,"[2015, 2016, 2017, 2022]"
+TTO,Trinidad and Tobago,2011,2024,"[2020, 2021, 2022, 2023]"

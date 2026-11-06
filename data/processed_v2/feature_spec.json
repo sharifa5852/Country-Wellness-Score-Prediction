@@ -1,0 +1,42 @@
+{
+  "id_cols": [
+    "Country",
+    "Code",
+    "Year",
+    "TargetYear"
+  ],
+  "target_col": "HappinessScore_target",
+  "persistence_col": "HappinessScore",
+  "base_features": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB"
+  ],
+  "flag_cols": [
+    "UnemploymentRate_WB_was_missing",
+    "InternetAccessPct_WB_was_missing",
+    "HealthExpenditurePctGDP_WB_was_missing"
+  ],
+  "feature_cols": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB",
+    "HappinessScore_lag1",
+    "log_GDPPerCapita_WB_lag1",
+    "UnemploymentRate_WB_lag1",
+    "InternetAccessPct_WB_lag1",
+    "HealthExpenditurePctGDP_WB_lag1",
+    "HappinessScore_lag2",
+    "log_GDPPerCapita_WB_lag2",
+    "UnemploymentRate_WB_lag2",
+    "InternetAccessPct_WB_lag2",
+    "HealthExpenditurePctGDP_WB_lag2",
+    "UnemploymentRate_WB_was_missing",
+    "InternetAccessPct_WB_was_missing",
+    "HealthExpenditurePctGDP_WB_was_missing"
+  ]
+}

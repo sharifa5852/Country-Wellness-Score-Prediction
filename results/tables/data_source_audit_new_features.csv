@@ -1,0 +1,4 @@
+feature,source_url,owid_value_column,downloaded_utc,owid_rows_after_cleaning,owid_countries,owid_year_min,owid_year_max,project_rows_matched,project_coverage_pct
+UnemploymentRate_WB,https://ourworldindata.org/grapher/unemployment-rate.csv?v=1&csvType=full&useColumnShortNames=true,sl_uem_totl_zs,2026-11-06 06:28:35,6496,186,1991,2025,1891,99.68
+InternetAccessPct_WB,https://ourworldindata.org/grapher/share-of-individuals-using-the-internet.csv?v=1&csvType=full&useColumnShortNames=true,it_net_user_zs,2026-11-06 06:28:35,6222,212,1990,2025,1873,98.73
+HealthExpenditurePctGDP_WB,https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp.csv?v=1&csvType=full&useColumnShortNames=true,current_health_expenditure__che__as_percentage_of_gross_domestic_product__gdp__pct,2026-11-06 06:28:35,4732,201,2000,2023,1738,91.62

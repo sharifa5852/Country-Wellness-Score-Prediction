@@ -1,0 +1,151 @@
+{
+  "sklearn_version": "1.6.1",
+  "random_seed": 42,
+  "fit_rows": "train only (origin year <= 2021)",
+  "n_train_rows": 842,
+  "feature_order": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB",
+    "HappinessScore_lag1",
+    "log_GDPPerCapita_WB_lag1",
+    "UnemploymentRate_WB_lag1",
+    "InternetAccessPct_WB_lag1",
+    "HealthExpenditurePctGDP_WB_lag1",
+    "HappinessScore_lag2",
+    "log_GDPPerCapita_WB_lag2",
+    "UnemploymentRate_WB_lag2",
+    "InternetAccessPct_WB_lag2",
+    "HealthExpenditurePctGDP_WB_lag2",
+    "UnemploymentRate_WB_was_missing",
+    "InternetAccessPct_WB_was_missing",
+    "HealthExpenditurePctGDP_WB_was_missing"
+  ],
+  "continuous_scaled_columns": [
+    "HappinessScore",
+    "log_GDPPerCapita_WB",
+    "UnemploymentRate_WB",
+    "InternetAccessPct_WB",
+    "HealthExpenditurePctGDP_WB",
+    "HappinessScore_lag1",
+    "log_GDPPerCapita_WB_lag1",
+    "UnemploymentRate_WB_lag1",
+    "InternetAccessPct_WB_lag1",
+    "HealthExpenditurePctGDP_WB_lag1",
+    "HappinessScore_lag2",
+    "log_GDPPerCapita_WB_lag2",
+    "UnemploymentRate_WB_lag2",
+    "InternetAccessPct_WB_lag2",
+    "HealthExpenditurePctGDP_WB_lag2"
+  ],
+  "binary_flag_columns_not_scaled": [
+    "UnemploymentRate_WB_was_missing",
+    "InternetAccessPct_WB_was_missing",
+    "HealthExpenditurePctGDP_WB_was_missing"
+  ],
+  "tabular_imputer": {
+    "strategy": "median",
+    "statistics": {
+      "HappinessScore": 5.502,
+      "log_GDPPerCapita_WB": 9.694400258876678,
+      "UnemploymentRate_WB": 5.457,
+      "InternetAccessPct_WB": 67.825355,
+      "HealthExpenditurePctGDP_WB": 6.57734335,
+      "HappinessScore_lag1": 5.472,
+      "log_GDPPerCapita_WB_lag1": 9.673502447114902,
+      "UnemploymentRate_WB_lag1": 5.4635,
+      "InternetAccessPct_WB_lag1": 63.4727,
+      "HealthExpenditurePctGDP_WB_lag1": 6.48242675,
+      "HappinessScore_lag2": 5.4175,
+      "log_GDPPerCapita_WB_lag2": 9.662440908779377,
+      "UnemploymentRate_WB_lag2": 5.3955,
+      "InternetAccessPct_WB_lag2": 58.2995945,
+      "HealthExpenditurePctGDP_WB_lag2": 6.4257884,
+      "UnemploymentRate_WB_was_missing": 0.0,
+      "InternetAccessPct_WB_was_missing": 0.0,
+      "HealthExpenditurePctGDP_WB_was_missing": 0.0
+    }
+  },
+  "tabular_scaler": {
+    "mean": {
+      "HappinessScore": 5.503559026128266,
+      "log_GDPPerCapita_WB": 9.635346784128245,
+      "UnemploymentRate_WB": 7.3863634204275535,
+      "InternetAccessPct_WB": 59.89257324881236,
+      "HealthExpenditurePctGDP_WB": 6.807149925890736,
+      "HappinessScore_lag1": 5.477537885985749,
+      "log_GDPPerCapita_WB_lag1": 9.622724785245854,
+      "UnemploymentRate_WB_lag1": 7.407484560570071,
+      "InternetAccessPct_WB_lag1": 56.67001720356295,
+      "HealthExpenditurePctGDP_WB_lag1": 6.680366038717339,
+      "HappinessScore_lag2": 5.448640142517814,
+      "log_GDPPerCapita_WB_lag2": 9.61405045462766,
+      "UnemploymentRate_WB_lag2": 7.406498812351544,
+      "InternetAccessPct_WB_lag2": 53.59171486840855,
+      "HealthExpenditurePctGDP_WB_lag2": 6.546298521733966
+    },
+    "scale": {
+      "HappinessScore": 1.089280322667056,
+      "log_GDPPerCapita_WB": 1.1248431787872235,
+      "UnemploymentRate_WB": 5.582795990558953,
+      "InternetAccessPct_WB": 28.086391891137207,
+      "HealthExpenditurePctGDP_WB": 2.7826322783345394,
+      "HappinessScore_lag1": 1.0972390661526288,
+      "log_GDPPerCapita_WB_lag1": 1.122630009554745,
+      "UnemploymentRate_WB_lag1": 5.630713047277672,
+      "InternetAccessPct_WB_lag1": 28.508618761049057,
+      "HealthExpenditurePctGDP_WB_lag1": 2.6796470998797575,
+      "HappinessScore_lag2": 1.111528898922188,
+      "log_GDPPerCapita_WB_lag2": 1.1238658572567093,
+      "UnemploymentRate_WB_lag2": 5.717032910719959,
+      "InternetAccessPct_WB_lag2": 28.85109429130616,
+      "HealthExpenditurePctGDP_WB_lag2": 2.566159214379776
+    }
+  },
+  "lstm": {
+    "timesteps_oldest_to_newest": [
+      "t-2",
+      "t-1",
+      "t"
+    ],
+    "features": [
+      "HappinessScore",
+      "log_GDPPerCapita_WB",
+      "UnemploymentRate_WB",
+      "InternetAccessPct_WB",
+      "HealthExpenditurePctGDP_WB"
+    ],
+    "imputer_medians": {
+      "HappinessScore": 5.472,
+      "log_GDPPerCapita_WB": 9.675396688806645,
+      "UnemploymentRate_WB": 5.439,
+      "InternetAccessPct_WB": 63.628414,
+      "HealthExpenditurePctGDP_WB": 6.490195
+    },
+    "scaler_mean": {
+      "HappinessScore": 5.47657901821061,
+      "log_GDPPerCapita_WB": 9.624040674667253,
+      "UnemploymentRate_WB": 7.4001155977830555,
+      "InternetAccessPct_WB": 56.719059600593816,
+      "HealthExpenditurePctGDP_WB": 6.677902595605701
+    },
+    "scaler_scale": {
+      "HappinessScore": 1.0996167671526802,
+      "log_GDPPerCapita_WB": 1.1238140629862432,
+      "UnemploymentRate_WB": 5.643795707519956,
+      "InternetAccessPct_WB": 28.599281250455114,
+      "HealthExpenditurePctGDP_WB": 2.679720794536671
+    },
+    "note": "Fit on the 3 stacked time steps of TRAIN rows (all values from years <= 2021). Length-4 sequences are built in Phase 3 from enriched_filled.csv with their own artifacts."
+  },
+  "target_scaled": false,
+  "artifact_files": [
+    "tabular_imputer.joblib",
+    "tabular_scaler.joblib",
+    "lstm_imputer.joblib",
+    "lstm_scaler.joblib",
+    "lstm_sequences.npz"
+  ]
+}

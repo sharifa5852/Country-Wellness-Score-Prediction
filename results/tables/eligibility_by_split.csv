@@ -1,0 +1,7 @@
+,samples,samples,samples,countries,countries,countries
+split,test (origin=2023),train (origin<=2021),val (origin=2022),test (origin=2023),train (origin<=2021),val (origin=2022)
+rule,,,,,,
+gridfill,133,1127,133,133,153,133
+has_target,139,1296,134,139,155,134
+strict,133,842,133,133,152,133
+strict4,133,690,133,133,147,133

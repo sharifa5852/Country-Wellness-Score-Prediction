@@ -1,0 +1,4 @@
+feature,missing_origin_rows,filled_by_past_value,still_missing_origin_rows,countries_still_missing
+UnemploymentRate_WB,3,3,0,[]
+InternetAccessPct_WB,22,13,9,"['Comoros', 'Myanmar', 'Pakistan', 'Sudan', 'Turkmenistan']"
+HealthExpenditurePctGDP_WB,16,2,14,"['Hong Kong', 'Puerto Rico']"

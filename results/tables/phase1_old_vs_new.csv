@@ -1,0 +1,8 @@
+item,OLD pipeline,NEW pipeline,why different
+train rows,1127,842,strict calendar alignment drops rows whose t-1/t-2/t+1 year is absent
+train countries,144,152,
+val rows,133,133,val/test no longer include 2022/2023 rows with a missing neighbouring year
+test rows,138,133,
+model features,7,18,"old: 4 lag columns + 3 current columns; new: 5 base features x (t,t-1,t-2) + 3 flags"
+raw countries (enrichment keeps all),159,159,left merge keeps every country
+test target year,"2024 (row-shift, test origin 2023 only)","2024 (calendar-aligned, test origin 2023)",

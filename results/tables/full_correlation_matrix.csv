@@ -1,0 +1,7 @@
+,HappinessScore,GDPPerCapita_WB,UnemploymentRate_WB,InternetAccessPct_WB,EducationExpenditurePctGDP_WB,HealthExpenditurePctGDP_WB
+HappinessScore,1.0,0.732,-0.177,0.729,0.391,0.407
+GDPPerCapita_WB,0.732,1.0,-0.131,0.722,0.234,0.339
+UnemploymentRate_WB,-0.177,-0.131,1.0,0.037,0.18,0.194
+InternetAccessPct_WB,0.729,0.722,0.037,1.0,0.318,0.436
+EducationExpenditurePctGDP_WB,0.391,0.234,0.18,0.318,1.0,0.459
+HealthExpenditurePctGDP_WB,0.407,0.339,0.194,0.436,0.459,1.0

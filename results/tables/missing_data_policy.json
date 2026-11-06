@@ -1,0 +1,36 @@
+{
+  "never_imputed": [
+    "HappinessScore",
+    "GDPPerCapita_WB",
+    "HappinessScore_target"
+  ],
+  "covariate_rule": "forward-fill from the same country's last REAL observation, maximum 2 calendar years, past values only",
+  "no_interpolation_reason": "interpolation would use values after the forecast origin",
+  "flags": [
+    "UnemploymentRate_WB_was_missing",
+    "InternetAccessPct_WB_was_missing",
+    "HealthExpenditurePctGDP_WB_was_missing"
+  ],
+  "remaining_nan": "median imputed using TRAINING rows only (CELL 23)",
+  "known_limitation": "Hong Kong and Puerto Rico have no health expenditure data at all; their value is the training median plus flag=1",
+  "report": [
+    {
+      "feature": "UnemploymentRate_WB",
+      "missing_origin_rows": 3,
+      "filled_by_past_value": 3,
+      "still_missing_origin_rows": 0
+    },
+    {
+      "feature": "InternetAccessPct_WB",
+      "missing_origin_rows": 22,
+      "filled_by_past_value": 13,
+      "still_missing_origin_rows": 9
+    },
+    {
+      "feature": "HealthExpenditurePctGDP_WB",
+      "missing_origin_rows": 16,
+      "filled_by_past_value": 2,
+      "still_missing_origin_rows": 14
+    }
+  ]
+}

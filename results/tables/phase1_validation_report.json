@@ -1,0 +1,47 @@
+{
+  "generated": "2026-11-06T06:35:47",
+  "all_checks_pass": true,
+  "n_checks": 19,
+  "splits": {
+    "train": {
+      "rows": 842,
+      "countries": 152,
+      "origin_years": [
+        2016,
+        2021
+      ],
+      "target_years": [
+        2017,
+        2022
+      ]
+    },
+    "val": {
+      "rows": 133,
+      "countries": 133,
+      "origin_years": [
+        2022,
+        2022
+      ],
+      "target_years": [
+        2023,
+        2023
+      ]
+    },
+    "test": {
+      "rows": 133,
+      "countries": 133,
+      "origin_years": [
+        2023,
+        2023
+      ],
+      "target_years": [
+        2024,
+        2024
+      ]
+    }
+  },
+  "n_features": 18,
+  "secret_hits_in_repo": 0,
+  "secret_hits_in_git_config": 0,
+  "strategy": "STRICT calendar-year join"
+}

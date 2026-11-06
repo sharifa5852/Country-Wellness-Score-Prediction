@@ -1,0 +1,46 @@
+{
+  "strategy": "STRICT calendar-year join",
+  "sklearn_version": "1.6.1",
+  "pandas_version": "2.2.3",
+  "n_features": 18,
+  "total_samples": 1108,
+  "countries_total": 152,
+  "splits": {
+    "train": {
+      "rows": 842,
+      "countries": 152,
+      "origin_years": [
+        2016,
+        2021
+      ],
+      "target_years": [
+        2017,
+        2022
+      ]
+    },
+    "val": {
+      "rows": 133,
+      "countries": 133,
+      "origin_years": [
+        2022,
+        2022
+      ],
+      "target_years": [
+        2023,
+        2023
+      ]
+    },
+    "test": {
+      "rows": 133,
+      "countries": 133,
+      "origin_years": [
+        2023,
+        2023
+      ],
+      "target_years": [
+        2024,
+        2024
+      ]
+    }
+  }
+}

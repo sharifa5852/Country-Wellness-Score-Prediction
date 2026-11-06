@@ -1,0 +1,20 @@
+check,result,detail
+split sizes 842/133/133,PASS,"[842, 133, 133]"
+chronology train<val<test (origin years),PASS,"2021 < 2022, 2022 < 2023"
+no row overlap between splits,PASS,
+TargetYear == Year+1 everywhere,PASS,
+"test target year is 2024, train targets stop at 2022",PASS,
+target == raw happiness at t+1 (re-derived from original file),PASS,
+persistence column == raw happiness at t,PASS,
+feature order identical in spec / imputed / scaled,PASS,18 features
+no NaN/inf in imputed or scaled inputs,PASS,
+flags are 0/1 in imputed and scaled,PASS,
+target unscaled (scaled files hold raw target),PASS,
+tabular scaler fit on TRAIN only (n_samples_seen_==842),PASS,842
+imputer medians == train medians,PASS,
+train scaled columns have mean 0 / std 1,PASS,
+LSTM scaler fit on 842*3 train steps only,PASS,2526
+"LSTM arrays shapes (n,3,5), finite",PASS,
+old data/processed and original raw file unmodified,PASS,''
+old data dictionary still present,PASS,
+new data dictionary present,PASS,
