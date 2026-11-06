@@ -1,0 +1,34 @@
+check,result,detail
+Phase 1 readiness checks still pass,PASS,11 checks
+Linear Regression: model file loads,PASS,linear_regression.joblib
+Random Forest: model file loads,PASS,random_forest.joblib
+XGBoost: model file loads,PASS,xgboost.joblib
+Stacking meta-model: model file loads,PASS,stacking_meta_fixed.joblib
+LSTM: model file loads,PASS,lstm_selected.keras
+Persistence: predictions aligned with real observations (val and test),PASS,133 + 133 rows
+Linear Regression: predictions aligned with real observations (val and test),PASS,133 + 133 rows
+Random Forest: predictions aligned with real observations (val and test),PASS,133 + 133 rows
+XGBoost: predictions aligned with real observations (val and test),PASS,133 + 133 rows
+LSTM: predictions aligned with real observations (val and test),PASS,133 + 133 rows
+Stacked Ensemble: predictions aligned with real observations (val and test),PASS,133 + 133 rows
+Linear Regression: feature order == Phase 1 order,PASS,
+Linear Regression: reloaded model reproduces saved test predictions,PASS,
+Random Forest: feature order == Phase 1 order,PASS,
+Random Forest: reloaded model reproduces saved test predictions,PASS,
+XGBoost: feature order == Phase 1 order,PASS,
+XGBoost: reloaded model reproduces saved test predictions,PASS,
+LSTM: reloaded model reproduces saved test predictions,PASS,
+Stack: meta-model applied to saved base predictions reproduces saved test predictions,PASS,
+master table == metrics recomputed from the prediction files,PASS,
+"master table: six models, finite metrics, same test rows",PASS,
+training rows: origin <= 2021 and targets <= 2022,PASS,
+"test rows: origin 2023, target 2024; val: origin 2022, target 2023",PASS,
+selection table rf_grid_results.csv has no test columns,PASS,
+selection table xgb_grid_results.csv has no test columns,PASS,
+selection table ridge_sensitivity_validation_only.csv has no test columns,PASS,
+selection table lstm_candidate_validation.csv has no test columns,PASS,
+selection table lstm_validation_comparison.csv has no test columns,PASS,
+"LSTM test evaluation logged once, after selection",PASS,
+meta-model fitted on validation only; test labels not used for fitting,PASS,
+tabular scaler fit on training rows only (842),PASS,
+length-4 scaler fit on training rows only,PASS,

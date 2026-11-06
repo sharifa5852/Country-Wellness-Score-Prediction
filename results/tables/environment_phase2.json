@@ -1,0 +1,15 @@
+{
+  "python": "3.13.18",
+  "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "seed": 42,
+  "cpu_count": 2,
+  "numpy": "2.4.6",
+  "pandas": "2.2.3",
+  "scikit-learn": "1.6.1",
+  "xgboost": "3.4.1",
+  "tensorflow": "2.21.0",
+  "keras": "3.13.2",
+  "joblib": "1.6.0",
+  "matplotlib": "3.10.0",
+  "gpu_tool_present": false
+}

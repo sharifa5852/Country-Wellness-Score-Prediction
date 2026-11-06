@@ -1,0 +1,267 @@
+Country,Code,Year,TargetYear,split,model,y_true,y_pred
+Afghanistan,AFG,2022,2023,val,Linear Regression,1.721,1.6312589380836808
+Albania,ALB,2022,2023,val,Linear Regression,5.304,5.3723031614839565
+United Arab Emirates,ARE,2022,2023,val,Linear Regression,6.733,6.6174211780314645
+Argentina,ARG,2022,2023,val,Linear Regression,6.188,6.118754433236498
+Armenia,ARM,2022,2023,val,Linear Regression,5.455,5.446226448356593
+Australia,AUS,2022,2023,val,Linear Regression,7.057,7.1050413797947165
+Austria,AUT,2022,2023,val,Linear Regression,6.905,7.069620782078324
+Belgium,BEL,2022,2023,val,Linear Regression,6.894,6.8921116401216995
+Benin,BEN,2022,2023,val,Linear Regression,4.377,4.284748783058132
+Burkina Faso,BFA,2022,2023,val,Linear Regression,4.548,4.596215888446981
+Bangladesh,BGD,2022,2023,val,Linear Regression,3.886,4.110612042284728
+Bulgaria,BGR,2022,2023,val,Linear Regression,5.463,5.583947268641011
+Bahrain,BHR,2022,2023,val,Linear Regression,5.959,6.08908195190817
+Bosnia and Herzegovina,BIH,2022,2023,val,Linear Regression,5.877,5.6519778209205676
+Bolivia,BOL,2022,2023,val,Linear Regression,5.784,5.746743154662253
+Brazil,BRA,2022,2023,val,Linear Regression,6.272,6.099855074327533
+Botswana,BWA,2022,2023,val,Linear Regression,3.383,3.517234438048294
+Canada,CAN,2022,2023,val,Linear Regression,6.9,7.004725800189419
+Switzerland,CHE,2022,2023,val,Linear Regression,7.06,7.176899827608372
+Chile,CHL,2022,2023,val,Linear Regression,6.36,6.4088679952522645
+China,CHN,2022,2023,val,Linear Regression,5.973,5.9289752201237285
+Cote d'Ivoire,CIV,2022,2023,val,Linear Regression,5.08,4.993266746325681
+Cameroon,CMR,2022,2023,val,Linear Regression,4.874,4.922853034043484
+Congo,COG,2022,2023,val,Linear Regression,5.221,5.280363898605476
+Colombia,COL,2022,2023,val,Linear Regression,5.695,5.6408881549684535
+Comoros,COM,2022,2023,val,Linear Regression,3.566,3.322357606031364
+Costa Rica,CRI,2022,2023,val,Linear Regression,6.955,6.603529037820002
+Cyprus,CYP,2022,2023,val,Linear Regression,6.068,6.160495447251164
+Czechia,CZE,2022,2023,val,Linear Regression,6.822,6.818845924521655
+Germany,DEU,2022,2023,val,Linear Regression,6.719,6.86162291658589
+Denmark,DNK,2022,2023,val,Linear Regression,7.583,7.5553320557956045
+Dominican Republic,DOM,2022,2023,val,Linear Regression,5.823,5.575585094448566
+Algeria,DZA,2022,2023,val,Linear Regression,5.364,5.452499926254645
+Ecuador,ECU,2022,2023,val,Linear Regression,5.725,5.596297135696326
+Egypt,EGY,2022,2023,val,Linear Regression,3.977,4.231144921318553
+Spain,ESP,2022,2023,val,Linear Regression,6.421,6.47660335834669
+Estonia,EST,2022,2023,val,Linear Regression,6.448,6.510269978656531
+Ethiopia,ETH,2022,2023,val,Linear Regression,3.861,4.064397344419177
+Finland,FIN,2022,2023,val,Linear Regression,7.741,7.742229493825608
+France,FRA,2022,2023,val,Linear Regression,6.609,6.676332865655963
+Gabon,GAB,2022,2023,val,Linear Regression,5.106,5.09588889955816
+United Kingdom,GBR,2022,2023,val,Linear Regression,6.749,6.772597705039001
+Georgia,GEO,2022,2023,val,Linear Regression,5.185,5.2128235533495015
+Ghana,GHA,2022,2023,val,Linear Regression,4.289,4.549599222112148
+Guinea,GIN,2022,2023,val,Linear Regression,5.023,5.091518192978029
+Gambia,GMB,2022,2023,val,Linear Regression,4.485,4.042203965597972
+Greece,GRC,2022,2023,val,Linear Regression,5.934,6.02979422093132
+Guatemala,GTM,2022,2023,val,Linear Regression,6.287,6.060750315822437
+Hong Kong,HKG,2022,2023,val,Linear Regression,5.316,5.2637367855392245
+Honduras,HND,2022,2023,val,Linear Regression,5.968,6.01065436546265
+Croatia,HRV,2022,2023,val,Linear Regression,5.942,6.194058634173868
+Hungary,HUN,2022,2023,val,Linear Regression,6.017,6.0863381601826285
+Indonesia,IDN,2022,2023,val,Linear Regression,5.568,5.312550811279233
+India,IND,2022,2023,val,Linear Regression,4.054,4.224193465005063
+Ireland,IRL,2022,2023,val,Linear Regression,6.838,6.94190539767914
+Iran,IRN,2022,2023,val,Linear Regression,4.923,4.940290795338336
+Iraq,IRQ,2022,2023,val,Linear Regression,5.166,5.006617839302622
+Iceland,ISL,2022,2023,val,Linear Regression,7.525,7.521400439144804
+Israel,ISR,2022,2023,val,Linear Regression,7.341,7.490320898135729
+Italy,ITA,2022,2023,val,Linear Regression,6.324,6.444641164461079
+Jamaica,JAM,2022,2023,val,Linear Regression,5.842,5.642137026181548
+Jordan,JOR,2022,2023,val,Linear Regression,4.186,4.148017339202947
+Japan,JPN,2022,2023,val,Linear Regression,6.06,6.1870073703808295
+Kazakhstan,KAZ,2022,2023,val,Linear Regression,6.188,6.129077019105984
+Kenya,KEN,2022,2023,val,Linear Regression,4.47,4.488427624522673
+Kyrgyzstan,KGZ,2022,2023,val,Linear Regression,5.714,5.800080494608573
+Cambodia,KHM,2022,2023,val,Linear Regression,4.341,4.328428117395237
+South Korea,KOR,2022,2023,val,Linear Regression,6.058,6.022774678202339
+Laos,LAO,2022,2023,val,Linear Regression,5.139,5.114394997988785
+Lebanon,LBN,2022,2023,val,Linear Regression,2.707,2.3139324803691275
+Liberia,LBR,2022,2023,val,Linear Regression,4.269,3.795716330074697
+Sri Lanka,LKA,2022,2023,val,Linear Regression,3.898,4.5003193430532376
+Lithuania,LTU,2022,2023,val,Linear Regression,6.818,6.887367515452412
+Luxembourg,LUX,2022,2023,val,Linear Regression,7.122,7.206182732222173
+Latvia,LVA,2022,2023,val,Linear Regression,6.234,6.227589493050559
+Morocco,MAR,2022,2023,val,Linear Regression,4.795,4.902135157463271
+Moldova,MDA,2022,2023,val,Linear Regression,5.816,5.798375903088423
+Madagascar,MDG,2022,2023,val,Linear Regression,4.228,3.930724711347866
+Mexico,MEX,2022,2023,val,Linear Regression,6.678,6.375794546643988
+North Macedonia,MKD,2022,2023,val,Linear Regression,5.369,5.320464059734823
+Mali,MLI,2022,2023,val,Linear Regression,4.232,4.106532378641832
+Malta,MLT,2022,2023,val,Linear Regression,6.346,6.304227338106437
+Myanmar,MMR,2022,2023,val,Linear Regression,4.354,4.415179894552651
+Montenegro,MNE,2022,2023,val,Linear Regression,5.707,5.86602872379899
+Mongolia,MNG,2022,2023,val,Linear Regression,5.696,5.833457624785275
+Mozambique,MOZ,2022,2023,val,Linear Regression,5.216,4.840468533427795
+Mauritania,MRT,2022,2023,val,Linear Regression,4.505,4.8751161678561035
+Mauritius,MUS,2022,2023,val,Linear Regression,5.816,5.903185052928164
+Malawi,MWI,2022,2023,val,Linear Regression,3.421,3.445223619452948
+Malaysia,MYS,2022,2023,val,Linear Regression,5.975,6.163970276581728
+Namibia,NAM,2022,2023,val,Linear Regression,4.832,4.696529175119693
+Niger,NER,2022,2023,val,Linear Regression,4.556,4.351358366640384
+Nigeria,NGA,2022,2023,val,Linear Regression,4.881,5.097016627950346
+Nicaragua,NIC,2022,2023,val,Linear Regression,6.284,6.247083288385322
+Netherlands,NLD,2022,2023,val,Linear Regression,7.319,7.390845266746488
+Norway,NOR,2022,2023,val,Linear Regression,7.302,7.360269977797659
+Nepal,NPL,2022,2023,val,Linear Regression,5.158,5.346525882349934
+New Zealand,NZL,2022,2023,val,Linear Regression,7.029,7.089604902228734
+Pakistan,PAK,2022,2023,val,Linear Regression,4.657,4.62842828206816
+Panama,PAN,2022,2023,val,Linear Regression,6.358,6.397710471686265
+Peru,PER,2022,2023,val,Linear Regression,5.841,5.53849996001676
+Philippines,PHL,2022,2023,val,Linear Regression,6.048,5.42001804552572
+Poland,POL,2022,2023,val,Linear Regression,6.442,6.3373941078515825
+Portugal,PRT,2022,2023,val,Linear Regression,6.03,6.01540136663205
+Paraguay,PRY,2022,2023,val,Linear Regression,5.977,5.765119514341308
+Palestine,PSE,2022,2023,val,Linear Regression,4.879,5.007607375304374
+Romania,ROU,2022,2023,val,Linear Regression,6.491,6.648272287356898
+Russia,RUS,2022,2023,val,Linear Regression,5.785,5.8007999318572745
+Saudi Arabia,SAU,2022,2023,val,Linear Regression,6.594,6.529844746706543
+Senegal,SEN,2022,2023,val,Linear Regression,4.969,4.797140859345427
+Singapore,SGP,2022,2023,val,Linear Regression,6.523,6.7035984333074286
+Sierra Leone,SLE,2022,2023,val,Linear Regression,3.245,3.081653428806426
+El Salvador,SLV,2022,2023,val,Linear Regression,6.469,6.1048399582343365
+Serbia,SRB,2022,2023,val,Linear Regression,6.411,6.141187723788799
+Slovakia,SVK,2022,2023,val,Linear Regression,6.257,6.483007380484617
+Slovenia,SVN,2022,2023,val,Linear Regression,6.743,6.693649811787701
+Sweden,SWE,2022,2023,val,Linear Regression,7.344,7.38316418162645
+Chad,TCD,2022,2023,val,Linear Regression,4.471,4.426994107145717
+Togo,TGO,2022,2023,val,Linear Regression,4.214,4.187331013607832
+Thailand,THA,2022,2023,val,Linear Regression,5.976,5.822013586871677
+Tajikistan,TJK,2022,2023,val,Linear Regression,5.281,5.315826491920865
+Tunisia,TUN,2022,2023,val,Linear Regression,4.422,4.624806169879825
+Turkey,TUR,2022,2023,val,Linear Regression,4.975,4.688755041647063
+Tanzania,TZA,2022,2023,val,Linear Regression,3.781,3.739393805594216
+Uganda,UGA,2022,2023,val,Linear Regression,4.372,4.378523467548258
+Ukraine,UKR,2022,2023,val,Linear Regression,4.873,4.906264466094786
+Uruguay,URY,2022,2023,val,Linear Regression,6.611,6.532726039797347
+United States,USA,2022,2023,val,Linear Regression,6.725,6.983115986836553
+Uzbekistan,UZB,2022,2023,val,Linear Regression,6.195,5.955382889980346
+Vietnam,VNM,2022,2023,val,Linear Regression,6.043,5.858720109103291
+South Africa,ZAF,2022,2023,val,Linear Regression,5.422,5.255013875560804
+Zambia,ZMB,2022,2023,val,Linear Regression,3.502,4.04430608105719
+Zimbabwe,ZWE,2022,2023,val,Linear Regression,3.341,3.3294671803804454
+Afghanistan,AFG,2023,2024,test,Linear Regression,1.364,1.7255755474373835
+Albania,ALB,2023,2024,test,Linear Regression,5.411,5.368689187108506
+United Arab Emirates,ARE,2023,2024,test,Linear Regression,6.759,6.8074714125305125
+Argentina,ARG,2023,2024,test,Linear Regression,6.397,6.27915870901511
+Armenia,ARM,2023,2024,test,Linear Regression,5.494,5.611025563221516
+Australia,AUS,2023,2024,test,Linear Regression,6.974,7.059713632653299
+Austria,AUT,2023,2024,test,Linear Regression,6.81,6.8776762651982395
+Belgium,BEL,2023,2024,test,Linear Regression,6.91,6.9326863348588414
+Benin,BEN,2023,2024,test,Linear Regression,4.357,4.370703871709565
+Burkina Faso,BFA,2023,2024,test,Linear Regression,4.383,4.509476153430494
+Bangladesh,BGD,2023,2024,test,Linear Regression,3.851,3.7977860454123675
+Bulgaria,BGR,2023,2024,test,Linear Regression,5.554,5.56103307468063
+Bahrain,BHR,2023,2024,test,Linear Regression,6.03,5.910202068452158
+Bosnia and Herzegovina,BIH,2023,2024,test,Linear Regression,6.136,6.0004092948714565
+Bolivia,BOL,2023,2024,test,Linear Regression,5.868,5.855045536816623
+Brazil,BRA,2023,2024,test,Linear Regression,6.494,6.338203779487601
+Botswana,BWA,2023,2024,test,Linear Regression,3.438,3.5682524931962862
+Canada,CAN,2023,2024,test,Linear Regression,6.803,6.922334526590551
+Switzerland,CHE,2023,2024,test,Linear Regression,6.935,7.0119776352990115
+Chile,CHL,2023,2024,test,Linear Regression,6.361,6.367074635996666
+China,CHN,2023,2024,test,Linear Regression,5.921,6.039861423395581
+Cote d'Ivoire,CIV,2023,2024,test,Linear Regression,5.102,5.081008110727744
+Cameroon,CMR,2023,2024,test,Linear Regression,4.887,4.824704468915007
+Congo,COG,2023,2024,test,Linear Regression,5.03,5.224474452748526
+Colombia,COL,2023,2024,test,Linear Regression,6.004,5.776185140327042
+Comoros,COM,2023,2024,test,Linear Regression,3.754,3.4945578772406094
+Costa Rica,CRI,2023,2024,test,Linear Regression,7.274,7.090729888118075
+Cyprus,CYP,2023,2024,test,Linear Regression,5.942,6.109843071257643
+Czechia,CZE,2023,2024,test,Linear Regression,6.775,6.812841739596754
+Germany,DEU,2023,2024,test,Linear Regression,6.753,6.6840561213146055
+Denmark,DNK,2023,2024,test,Linear Regression,7.521,7.561514207689891
+Dominican Republic,DOM,2023,2024,test,Linear Regression,5.846,5.910965478592737
+Algeria,DZA,2023,2024,test,Linear Regression,5.571,5.445556647747051
+Ecuador,ECU,2023,2024,test,Linear Regression,5.965,5.800040256170837
+Egypt,EGY,2023,2024,test,Linear Regression,3.817,4.011554288253905
+Spain,ESP,2023,2024,test,Linear Regression,6.466,6.461392366421286
+Estonia,EST,2023,2024,test,Linear Regression,6.417,6.442249885866638
+Ethiopia,ETH,2023,2024,test,Linear Regression,3.898,3.8222771810173497
+Finland,FIN,2023,2024,test,Linear Regression,7.736,7.662184577880263
+France,FRA,2023,2024,test,Linear Regression,6.593,6.61939116677497
+Gabon,GAB,2023,2024,test,Linear Regression,5.12,5.1432017268570105
+United Kingdom,GBR,2023,2024,test,Linear Regression,6.728,6.753101044764184
+Georgia,GEO,2023,2024,test,Linear Regression,5.4,5.338640923958169
+Ghana,GHA,2023,2024,test,Linear Regression,4.34,4.21567998978421
+Guinea,GIN,2023,2024,test,Linear Regression,4.929,5.00224496130188
+Gambia,GMB,2023,2024,test,Linear Regression,4.423,4.459105671978628
+Greece,GRC,2023,2024,test,Linear Regression,5.776,6.0154600581370214
+Guatemala,GTM,2023,2024,test,Linear Regression,6.362,6.284224833613806
+Hong Kong,HKG,2023,2024,test,Linear Regression,5.491,5.317885947143057
+Honduras,HND,2023,2024,test,Linear Regression,5.964,5.949470600295814
+Croatia,HRV,2023,2024,test,Linear Regression,5.87,5.9627924495333104
+Hungary,HUN,2023,2024,test,Linear Regression,5.915,6.04125588033882
+Indonesia,IDN,2023,2024,test,Linear Regression,5.617,5.69098913564294
+India,IND,2023,2024,test,Linear Regression,4.389,4.191770978712112
+Ireland,IRL,2023,2024,test,Linear Regression,6.889,6.849774110480126
+Iran,IRN,2023,2024,test,Linear Regression,5.093,4.979041760315042
+Iraq,IRQ,2023,2024,test,Linear Regression,4.976,5.2634854531360125
+Iceland,ISL,2023,2024,test,Linear Regression,7.515,7.540902853376936
+Israel,ISR,2023,2024,test,Linear Regression,7.234,7.296966730744829
+Italy,ITA,2023,2024,test,Linear Regression,6.415,6.360983209464897
+Jamaica,JAM,2023,2024,test,Linear Regression,5.87,5.867456045684718
+Jordan,JOR,2023,2024,test,Linear Regression,4.31,4.282666997702032
+Japan,JPN,2023,2024,test,Linear Regression,6.147,6.0962872424309476
+Kazakhstan,KAZ,2023,2024,test,Linear Regression,6.378,6.211710026495179
+Kenya,KEN,2023,2024,test,Linear Regression,4.51,4.496258791092712
+Kyrgyzstan,KGZ,2023,2024,test,Linear Regression,5.858,5.686010830395803
+Cambodia,KHM,2023,2024,test,Linear Regression,4.341,4.398969973182295
+South Korea,KOR,2023,2024,test,Linear Regression,6.038,6.132896818132694
+Laos,LAO,2023,2024,test,Linear Regression,5.301,5.168702980620884
+Lebanon,LBN,2023,2024,test,Linear Regression,3.188,2.8771478726569195
+Liberia,LBR,2023,2024,test,Linear Regression,4.277,4.243129315615552
+Sri Lanka,LKA,2023,2024,test,Linear Regression,3.891,3.860334148876822
+Lithuania,LTU,2023,2024,test,Linear Regression,6.829,6.853016754304633
+Luxembourg,LUX,2023,2024,test,Linear Regression,7.122,7.078380225200252
+Latvia,LVA,2023,2024,test,Linear Regression,6.207,6.2817843129255415
+Morocco,MAR,2023,2024,test,Linear Regression,4.622,4.774038131424976
+Moldova,MDA,2023,2024,test,Linear Regression,5.819,5.824887295517127
+Madagascar,MDG,2023,2024,test,Linear Regression,4.157,4.248845458944864
+Mexico,MEX,2023,2024,test,Linear Regression,6.979,6.776861699937278
+North Macedonia,MKD,2023,2024,test,Linear Regression,5.503,5.486262434364791
+Mali,MLI,2023,2024,test,Linear Regression,4.345,4.223193389158104
+Malta,MLT,2023,2024,test,Linear Regression,6.316,6.412549007674231
+Myanmar,MMR,2023,2024,test,Linear Regression,4.321,4.487966683847586
+Montenegro,MNE,2023,2024,test,Linear Regression,5.877,5.807473874871805
+Mongolia,MNG,2023,2024,test,Linear Regression,5.833,5.671336002598001
+Mozambique,MOZ,2023,2024,test,Linear Regression,5.19,5.2003698642989615
+Mauritania,MRT,2023,2024,test,Linear Regression,4.542,4.5097463151643105
+Mauritius,MUS,2023,2024,test,Linear Regression,5.832,5.853053146442428
+Malawi,MWI,2023,2024,test,Linear Regression,3.26,3.419992293153067
+Malaysia,MYS,2023,2024,test,Linear Regression,5.955,6.025842084123761
+Namibia,NAM,2023,2024,test,Linear Regression,4.911,4.9510666755830295
+Niger,NER,2023,2024,test,Linear Regression,4.725,4.523391802443511
+Nigeria,NGA,2023,2024,test,Linear Regression,4.885,4.930589886769779
+Nicaragua,NIC,2023,2024,test,Linear Regression,6.33,6.277786808795273
+Netherlands,NLD,2023,2024,test,Linear Regression,7.306,7.3048600317385795
+Norway,NOR,2023,2024,test,Linear Regression,7.262,7.333816434867213
+Nepal,NPL,2023,2024,test,Linear Regression,5.311,5.0685584550283505
+New Zealand,NZL,2023,2024,test,Linear Regression,6.952,6.955977087706328
+Pakistan,PAK,2023,2024,test,Linear Regression,4.768,4.782185348274012
+Panama,PAN,2023,2024,test,Linear Regression,6.407,6.445342719896958
+Peru,PER,2023,2024,test,Linear Regression,5.947,5.92540989830422
+Philippines,PHL,2023,2024,test,Linear Regression,6.107,6.174242367745848
+Poland,POL,2023,2024,test,Linear Regression,6.673,6.517216232572652
+Portugal,PRT,2023,2024,test,Linear Regression,6.013,6.100987113296954
+Paraguay,PRY,2023,2024,test,Linear Regression,6.172,6.068284314989256
+Palestine,PSE,2023,2024,test,Linear Regression,4.78,4.910819871600209
+Romania,ROU,2023,2024,test,Linear Regression,6.563,6.487395204279948
+Russia,RUS,2023,2024,test,Linear Regression,5.945,5.909563652249758
+Saudi Arabia,SAU,2023,2024,test,Linear Regression,6.6,6.659649073729277
+Senegal,SEN,2023,2024,test,Linear Regression,4.856,4.976369279266619
+Singapore,SGP,2023,2024,test,Linear Regression,6.565,6.573936440824496
+Sierra Leone,SLE,2023,2024,test,Linear Regression,2.998,3.321049799318603
+El Salvador,SLV,2023,2024,test,Linear Regression,6.492,6.5490154912535745
+Serbia,SRB,2023,2024,test,Linear Regression,6.606,6.509173581889538
+Slovakia,SVK,2023,2024,test,Linear Regression,6.221,6.223344284615593
+Slovenia,SVN,2023,2024,test,Linear Regression,6.792,6.78255850687274
+Sweden,SWE,2023,2024,test,Linear Regression,7.345,7.317748270860293
+Chad,TCD,2023,2024,test,Linear Regression,4.384,4.483211207670086
+Togo,TGO,2023,2024,test,Linear Regression,4.315,4.259741181438059
+Thailand,THA,2023,2024,test,Linear Regression,6.222,6.014635427085737
+Tajikistan,TJK,2023,2024,test,Linear Regression,5.411,5.283093842298021
+Tunisia,TUN,2023,2024,test,Linear Regression,4.552,4.529555799318635
+Turkey,TUR,2023,2024,test,Linear Regression,5.262,5.188993693101329
+Tanzania,TZA,2023,2024,test,Linear Regression,3.8,3.8609920219530807
+Uganda,UGA,2023,2024,test,Linear Regression,4.461,4.365405467607614
+Ukraine,UKR,2023,2024,test,Linear Regression,4.68,4.784196040203875
+Uruguay,URY,2023,2024,test,Linear Regression,6.661,6.636504619040846
+United States,USA,2023,2024,test,Linear Regression,6.724,6.751922676697944
+Uzbekistan,UZB,2023,2024,test,Linear Regression,6.193,6.227578722245757
+Vietnam,VNM,2023,2024,test,Linear Regression,6.352,6.143426695654364
+South Africa,ZAF,2023,2024,test,Linear Regression,5.213,5.44821169470654
+Zambia,ZMB,2023,2024,test,Linear Regression,3.912,3.4671304803700305
+Zimbabwe,ZWE,2023,2024,test,Linear Regression,3.396,3.464910338927152

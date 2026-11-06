@@ -1,0 +1,6 @@
+{
+  "evaluated_at": "2026-11-06T06:46:21",
+  "model": "L4_u16",
+  "seq_len": 4,
+  "note": "Test set scored once, after selection on validation (CELL 36)."
+}

@@ -1,0 +1,85 @@
+{
+  "n_checks": 33,
+  "n_failed": 0,
+  "phase1_complete": true,
+  "master": [
+    {
+      "model": "Persistence",
+      "val_MAE": 0.125113,
+      "val_RMSE": 0.16584,
+      "val_R2": 0.978659,
+      "test_MAE": 0.103714,
+      "test_RMSE": 0.140846,
+      "test_R2": 0.98478,
+      "n_val": 133,
+      "n_test": 133,
+      "test_MAE_vs_persistence_pct": 0.0,
+      "test_RMSE_vs_persistence_pct": 0.0
+    },
+    {
+      "model": "Linear Regression",
+      "val_MAE": 0.134226,
+      "val_RMSE": 0.182402,
+      "val_R2": 0.974183,
+      "test_MAE": 0.09384,
+      "test_RMSE": 0.123754,
+      "test_R2": 0.98825,
+      "n_val": 133,
+      "n_test": 133,
+      "test_MAE_vs_persistence_pct": -9.520245,
+      "test_RMSE_vs_persistence_pct": -12.13556
+    },
+    {
+      "model": "Random Forest",
+      "val_MAE": 0.142839,
+      "val_RMSE": 0.197349,
+      "val_R2": 0.969779,
+      "test_MAE": 0.121943,
+      "test_RMSE": 0.177112,
+      "test_R2": 0.975933,
+      "n_val": 133,
+      "n_test": 133,
+      "test_MAE_vs_persistence_pct": 17.575831,
+      "test_RMSE_vs_persistence_pct": 25.748706
+    },
+    {
+      "model": "XGBoost",
+      "val_MAE": 0.147583,
+      "val_RMSE": 0.197834,
+      "val_R2": 0.96963,
+      "test_MAE": 0.135184,
+      "test_RMSE": 0.185857,
+      "test_R2": 0.973497,
+      "n_val": 133,
+      "n_test": 133,
+      "test_MAE_vs_persistence_pct": 30.342974,
+      "test_RMSE_vs_persistence_pct": 31.957371
+    },
+    {
+      "model": "LSTM",
+      "val_MAE": 0.170536,
+      "val_RMSE": 0.22545,
+      "val_R2": 0.96056,
+      "test_MAE": 0.159238,
+      "test_RMSE": 0.205873,
+      "test_R2": 0.967481,
+      "n_val": 133,
+      "n_test": 133,
+      "test_MAE_vs_persistence_pct": 53.535086,
+      "test_RMSE_vs_persistence_pct": 46.168502
+    },
+    {
+      "model": "Stacked Ensemble",
+      "val_MAE": 0.150987,
+      "val_RMSE": 0.204761,
+      "val_R2": 0.967466,
+      "test_MAE": 0.130459,
+      "test_RMSE": 0.175999,
+      "test_R2": 0.976234,
+      "n_val": 133,
+      "n_test": 133,
+      "test_MAE_vs_persistence_pct": 25.786577,
+      "test_RMSE_vs_persistence_pct": 24.958596
+    }
+  ]
+}

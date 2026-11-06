@@ -1,0 +1,50 @@
+{
+  "samples": [
+    {
+      "split": "train",
+      "seq_len": 3,
+      "samples": 842,
+      "countries": 152,
+      "pct_of_length3": 100.0
+    },
+    {
+      "split": "train",
+      "seq_len": 4,
+      "samples": 690,
+      "countries": 147,
+      "pct_of_length3": 81.9
+    },
+    {
+      "split": "val",
+      "seq_len": 3,
+      "samples": 133,
+      "countries": 133,
+      "pct_of_length3": 100.0
+    },
+    {
+      "split": "val",
+      "seq_len": 4,
+      "samples": 133,
+      "countries": 133,
+      "pct_of_length3": 100.0
+    },
+    {
+      "split": "test",
+      "seq_len": 3,
+      "samples": 133,
+      "countries": 133,
+      "pct_of_length3": 100.0
+    },
+    {
+      "split": "test",
+      "seq_len": 4,
+      "samples": 133,
+      "countries": 133,
+      "pct_of_length3": 100.0
+    }
+  ],
+  "val_identical_across_lengths": true,
+  "test_identical_across_lengths": true,
+  "rule": "STRICT calendar rows t-(L-1)..t and t+1 must be real observations",
+  "decision": "both lengths are candidates; the final length is chosen on VALIDATION in CELL 36"
+}

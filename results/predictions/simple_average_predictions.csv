@@ -1,0 +1,533 @@
+Country,Code,Year,TargetYear,split,model,y_true,y_pred
+Afghanistan,AFG,2022,2023,val,Simple Average (fixed bases),1.721,2.201780457986116
+Albania,ALB,2022,2023,val,Simple Average (fixed bases),5.304,5.287830231791119
+United Arab Emirates,ARE,2022,2023,val,Simple Average (fixed bases),6.733,6.491119164038392
+Argentina,ARG,2022,2023,val,Simple Average (fixed bases),6.188,6.0976587374715665
+Armenia,ARM,2022,2023,val,Simple Average (fixed bases),5.455,5.448062161799018
+Australia,AUS,2022,2023,val,Simple Average (fixed bases),7.057,7.070198118630717
+Austria,AUT,2022,2023,val,Simple Average (fixed bases),6.905,7.047215777046056
+Belgium,BEL,2022,2023,val,Simple Average (fixed bases),6.894,6.837477824528087
+Benin,BEN,2022,2023,val,Simple Average (fixed bases),4.377,4.263104331278812
+Burkina Faso,BFA,2022,2023,val,Simple Average (fixed bases),4.548,4.587149062323559
+Bangladesh,BGD,2022,2023,val,Simple Average (fixed bases),3.886,4.344094202891441
+Bulgaria,BGR,2022,2023,val,Simple Average (fixed bases),5.463,5.687311913031266
+Bahrain,BHR,2022,2023,val,Simple Average (fixed bases),5.959,6.257915287026176
+Bosnia and Herzegovina,BIH,2022,2023,val,Simple Average (fixed bases),5.877,5.6786639587324785
+Bolivia,BOL,2022,2023,val,Simple Average (fixed bases),5.784,5.739793415325511
+Brazil,BRA,2022,2023,val,Simple Average (fixed bases),6.272,6.148291947271022
+Botswana,BWA,2022,2023,val,Simple Average (fixed bases),3.383,3.470888278425489
+Canada,CAN,2022,2023,val,Simple Average (fixed bases),6.9,6.918028637484283
+Switzerland,CHE,2022,2023,val,Simple Average (fixed bases),7.06,7.250417178341941
+Chile,CHL,2022,2023,val,Simple Average (fixed bases),6.36,6.2565730407325235
+China,CHN,2022,2023,val,Simple Average (fixed bases),5.973,5.8222784940899786
+Cote d'Ivoire,CIV,2022,2023,val,Simple Average (fixed bases),5.08,4.948915278989198
+Cameroon,CMR,2022,2023,val,Simple Average (fixed bases),4.874,4.957587782639223
+Congo,COG,2022,2023,val,Simple Average (fixed bases),5.221,5.2222763947530675
+Colombia,COL,2022,2023,val,Simple Average (fixed bases),5.695,5.631438909288302
+Comoros,COM,2022,2023,val,Simple Average (fixed bases),3.566,3.7518540378473264
+Costa Rica,CRI,2022,2023,val,Simple Average (fixed bases),6.955,6.512785274564112
+Cyprus,CYP,2022,2023,val,Simple Average (fixed bases),6.068,6.300675620960585
+Czechia,CZE,2022,2023,val,Simple Average (fixed bases),6.822,6.831298104224625
+Germany,DEU,2022,2023,val,Simple Average (fixed bases),6.719,6.857559383517703
+Denmark,DNK,2022,2023,val,Simple Average (fixed bases),7.583,7.535157049056097
+Dominican Republic,DOM,2022,2023,val,Simple Average (fixed bases),5.823,5.621633189324387
+Algeria,DZA,2022,2023,val,Simple Average (fixed bases),5.364,5.353718480360889
+Ecuador,ECU,2022,2023,val,Simple Average (fixed bases),5.725,5.664275650526683
+Egypt,EGY,2022,2023,val,Simple Average (fixed bases),3.977,4.299943163553865
+Spain,ESP,2022,2023,val,Simple Average (fixed bases),6.421,6.4637644042075975
+Estonia,EST,2022,2023,val,Simple Average (fixed bases),6.448,6.479810931548801
+Ethiopia,ETH,2022,2023,val,Simple Average (fixed bases),3.861,4.093588449240631
+Finland,FIN,2022,2023,val,Simple Average (fixed bases),7.741,7.702531858609647
+France,FRA,2022,2023,val,Simple Average (fixed bases),6.609,6.634083830860919
+Gabon,GAB,2022,2023,val,Simple Average (fixed bases),5.106,5.071188038725889
+United Kingdom,GBR,2022,2023,val,Simple Average (fixed bases),6.749,6.784914179763644
+Georgia,GEO,2022,2023,val,Simple Average (fixed bases),5.185,5.202833866025201
+Ghana,GHA,2022,2023,val,Simple Average (fixed bases),4.289,4.568901042763511
+Guinea,GIN,2022,2023,val,Simple Average (fixed bases),5.023,5.050460658113684
+Gambia,GMB,2022,2023,val,Simple Average (fixed bases),4.485,4.298996184932988
+Greece,GRC,2022,2023,val,Simple Average (fixed bases),5.934,6.0486548173224115
+Guatemala,GTM,2022,2023,val,Simple Average (fixed bases),6.287,6.104033751310152
+Hong Kong,HKG,2022,2023,val,Simple Average (fixed bases),5.316,5.5843567851484535
+Honduras,HND,2022,2023,val,Simple Average (fixed bases),5.968,5.976242902543922
+Croatia,HRV,2022,2023,val,Simple Average (fixed bases),5.942,6.237903421548157
+Hungary,HUN,2022,2023,val,Simple Average (fixed bases),6.017,6.116376388631423
+Indonesia,IDN,2022,2023,val,Simple Average (fixed bases),5.568,5.299320380306885
+India,IND,2022,2023,val,Simple Average (fixed bases),4.054,4.272691202280805
+Ireland,IRL,2022,2023,val,Simple Average (fixed bases),6.838,6.954641164242248
+Iran,IRN,2022,2023,val,Simple Average (fixed bases),4.923,4.869202919346807
+Iraq,IRQ,2022,2023,val,Simple Average (fixed bases),5.166,5.016872542942603
+Iceland,ISL,2022,2023,val,Simple Average (fixed bases),7.525,7.479109993870409
+Israel,ISR,2022,2023,val,Simple Average (fixed bases),7.341,7.351750104130301
+Italy,ITA,2022,2023,val,Simple Average (fixed bases),6.324,6.450586768688383
+Jamaica,JAM,2022,2023,val,Simple Average (fixed bases),5.842,5.746639672278086
+Jordan,JOR,2022,2023,val,Simple Average (fixed bases),4.186,4.053442094988653
+Japan,JPN,2022,2023,val,Simple Average (fixed bases),6.06,6.240526271804588
+Kazakhstan,KAZ,2022,2023,val,Simple Average (fixed bases),6.188,6.1582418692674565
+Kenya,KEN,2022,2023,val,Simple Average (fixed bases),4.47,4.578141337517588
+Kyrgyzstan,KGZ,2022,2023,val,Simple Average (fixed bases),5.714,5.7480988802160615
+Cambodia,KHM,2022,2023,val,Simple Average (fixed bases),4.341,4.371131445806243
+South Korea,KOR,2022,2023,val,Simple Average (fixed bases),6.058,6.089859633125104
+Laos,LAO,2022,2023,val,Simple Average (fixed bases),5.139,5.047276391190142
+Lebanon,LBN,2022,2023,val,Simple Average (fixed bases),2.707,2.6321243236750558
+Liberia,LBR,2022,2023,val,Simple Average (fixed bases),4.269,4.008967724360479
+Sri Lanka,LKA,2022,2023,val,Simple Average (fixed bases),3.898,4.598281727822947
+Lithuania,LTU,2022,2023,val,Simple Average (fixed bases),6.818,6.677433800321853
+Luxembourg,LUX,2022,2023,val,Simple Average (fixed bases),7.122,7.239560821266301
+Latvia,LVA,2022,2023,val,Simple Average (fixed bases),6.234,6.277244989617334
+Morocco,MAR,2022,2023,val,Simple Average (fixed bases),4.795,4.773180055543817
+Moldova,MDA,2022,2023,val,Simple Average (fixed bases),5.816,5.764346986380825
+Madagascar,MDG,2022,2023,val,Simple Average (fixed bases),4.228,4.054280997110678
+Mexico,MEX,2022,2023,val,Simple Average (fixed bases),6.678,6.177751232390083
+North Macedonia,MKD,2022,2023,val,Simple Average (fixed bases),5.369,5.248644025523198
+Mali,MLI,2022,2023,val,Simple Average (fixed bases),4.232,4.248353005554731
+Malta,MLT,2022,2023,val,Simple Average (fixed bases),6.346,6.378459444816137
+Myanmar,MMR,2022,2023,val,Simple Average (fixed bases),4.354,4.40483193019443
+Montenegro,MNE,2022,2023,val,Simple Average (fixed bases),5.707,5.837422597229009
+Mongolia,MNG,2022,2023,val,Simple Average (fixed bases),5.696,5.797883599595589
+Mozambique,MOZ,2022,2023,val,Simple Average (fixed bases),5.216,4.820112896647605
+Mauritania,MRT,2022,2023,val,Simple Average (fixed bases),4.505,4.846393082225874
+Mauritius,MUS,2022,2023,val,Simple Average (fixed bases),5.816,5.933347823374192
+Malawi,MWI,2022,2023,val,Simple Average (fixed bases),3.421,3.66244474205514
+Malaysia,MYS,2022,2023,val,Simple Average (fixed bases),5.975,5.994433623893927
+Namibia,NAM,2022,2023,val,Simple Average (fixed bases),4.832,4.696321504666279
+Niger,NER,2022,2023,val,Simple Average (fixed bases),4.556,4.369237367957953
+Nigeria,NGA,2022,2023,val,Simple Average (fixed bases),4.881,5.020919953924966
+Nicaragua,NIC,2022,2023,val,Simple Average (fixed bases),6.284,6.21011029900914
+Netherlands,NLD,2022,2023,val,Simple Average (fixed bases),7.319,7.327304715330455
+Norway,NOR,2022,2023,val,Simple Average (fixed bases),7.302,7.29206945034517
+Nepal,NPL,2022,2023,val,Simple Average (fixed bases),5.158,5.300762724149005
+New Zealand,NZL,2022,2023,val,Simple Average (fixed bases),7.029,7.107563224575192
+Pakistan,PAK,2022,2023,val,Simple Average (fixed bases),4.657,4.493684268488331
+Panama,PAN,2022,2023,val,Simple Average (fixed bases),6.358,6.263472222026228
+Peru,PER,2022,2023,val,Simple Average (fixed bases),5.841,5.62490976868532
+Philippines,PHL,2022,2023,val,Simple Average (fixed bases),6.048,5.599270567277981
+Poland,POL,2022,2023,val,Simple Average (fixed bases),6.442,6.234304738712139
+Portugal,PRT,2022,2023,val,Simple Average (fixed bases),6.03,6.148609585683428
+Paraguay,PRY,2022,2023,val,Simple Average (fixed bases),5.977,5.772614218305894
+Palestine,PSE,2022,2023,val,Simple Average (fixed bases),4.879,4.96392474965348
+Romania,ROU,2022,2023,val,Simple Average (fixed bases),6.491,6.4860094026771655
+Russia,RUS,2022,2023,val,Simple Average (fixed bases),5.785,5.798871740689595
+Saudi Arabia,SAU,2022,2023,val,Simple Average (fixed bases),6.594,6.492033532229918
+Senegal,SEN,2022,2023,val,Simple Average (fixed bases),4.969,4.827292194949824
+Singapore,SGP,2022,2023,val,Simple Average (fixed bases),6.523,6.53904514782342
+Sierra Leone,SLE,2022,2023,val,Simple Average (fixed bases),3.245,3.3041214656307605
+El Salvador,SLV,2022,2023,val,Simple Average (fixed bases),6.469,6.130034929601152
+Serbia,SRB,2022,2023,val,Simple Average (fixed bases),6.411,6.16307513277905
+Slovakia,SVK,2022,2023,val,Simple Average (fixed bases),6.257,6.474680367716168
+Slovenia,SVN,2022,2023,val,Simple Average (fixed bases),6.743,6.607076954286221
+Sweden,SWE,2022,2023,val,Simple Average (fixed bases),7.344,7.322380803374116
+Chad,TCD,2022,2023,val,Simple Average (fixed bases),4.471,4.406599686761207
+Togo,TGO,2022,2023,val,Simple Average (fixed bases),4.214,4.306863511820516
+Thailand,THA,2022,2023,val,Simple Average (fixed bases),5.976,5.8027530463299
+Tajikistan,TJK,2022,2023,val,Simple Average (fixed bases),5.281,5.37270007838259
+Tunisia,TUN,2022,2023,val,Simple Average (fixed bases),4.422,4.536205707857274
+Turkey,TUR,2022,2023,val,Simple Average (fixed bases),4.975,4.391072403334774
+Tanzania,TZA,2022,2023,val,Simple Average (fixed bases),3.781,3.865627458825346
+Uganda,UGA,2022,2023,val,Simple Average (fixed bases),4.372,4.430382097416871
+Ukraine,UKR,2022,2023,val,Simple Average (fixed bases),4.873,5.07125933288845
+Uruguay,URY,2022,2023,val,Simple Average (fixed bases),6.611,6.440552305767436
+United States,USA,2022,2023,val,Simple Average (fixed bases),6.725,6.902148604134598
+Uzbekistan,UZB,2022,2023,val,Simple Average (fixed bases),6.195,5.98994679738296
+Vietnam,VNM,2022,2023,val,Simple Average (fixed bases),6.043,5.7447383534654755
+South Africa,ZAF,2022,2023,val,Simple Average (fixed bases),5.422,5.241668501467791
+Zambia,ZMB,2022,2023,val,Simple Average (fixed bases),3.502,4.031209469996252
+Zimbabwe,ZWE,2022,2023,val,Simple Average (fixed bases),3.341,3.304356688635965
+Afghanistan,AFG,2023,2024,test,Simple Average (fixed bases),1.364,2.1748008587734695
+Albania,ALB,2023,2024,test,Simple Average (fixed bases),5.411,5.316380006893351
+United Arab Emirates,ARE,2023,2024,test,Simple Average (fixed bases),6.759,6.637255636499095
+Argentina,ARG,2023,2024,test,Simple Average (fixed bases),6.397,6.183884991044175
+Armenia,ARM,2023,2024,test,Simple Average (fixed bases),5.494,5.568813818927964
+Australia,AUS,2023,2024,test,Simple Average (fixed bases),6.974,6.9940338877970545
+Austria,AUT,2023,2024,test,Simple Average (fixed bases),6.81,6.9178320593692435
+Belgium,BEL,2023,2024,test,Simple Average (fixed bases),6.91,6.855712650454684
+Benin,BEN,2023,2024,test,Simple Average (fixed bases),4.357,4.3832166475875844
+Burkina Faso,BFA,2023,2024,test,Simple Average (fixed bases),4.383,4.5217170039578605
+Bangladesh,BGD,2023,2024,test,Simple Average (fixed bases),3.851,3.849381687841824
+Bulgaria,BGR,2023,2024,test,Simple Average (fixed bases),5.554,5.713012361140257
+Bahrain,BHR,2023,2024,test,Simple Average (fixed bases),6.03,6.074792107090432
+Bosnia and Herzegovina,BIH,2023,2024,test,Simple Average (fixed bases),6.136,5.82527963337582
+Bolivia,BOL,2023,2024,test,Simple Average (fixed bases),5.868,5.79365143040913
+Brazil,BRA,2023,2024,test,Simple Average (fixed bases),6.494,6.209453199591668
+Botswana,BWA,2023,2024,test,Simple Average (fixed bases),3.438,3.4797765878494746
+Canada,CAN,2023,2024,test,Simple Average (fixed bases),6.803,6.8899805896054405
+Switzerland,CHE,2023,2024,test,Simple Average (fixed bases),6.935,7.040924499217795
+Chile,CHL,2023,2024,test,Simple Average (fixed bases),6.361,6.338782071884609
+China,CHN,2023,2024,test,Simple Average (fixed bases),5.921,5.932521426255469
+Cote d'Ivoire,CIV,2023,2024,test,Simple Average (fixed bases),5.102,5.0236415876369085
+Cameroon,CMR,2023,2024,test,Simple Average (fixed bases),4.887,4.858489463182384
+Congo,COG,2023,2024,test,Simple Average (fixed bases),5.03,5.133035038899648
+Colombia,COL,2023,2024,test,Simple Average (fixed bases),6.004,5.691718849340191
+Comoros,COM,2023,2024,test,Simple Average (fixed bases),3.754,3.5864409651596048
+Costa Rica,CRI,2023,2024,test,Simple Average (fixed bases),7.274,6.747307967833674
+Cyprus,CYP,2023,2024,test,Simple Average (fixed bases),5.942,6.239788714251147
+Czechia,CZE,2023,2024,test,Simple Average (fixed bases),6.775,6.80744632862892
+Germany,DEU,2023,2024,test,Simple Average (fixed bases),6.753,6.752314127294439
+Denmark,DNK,2023,2024,test,Simple Average (fixed bases),7.521,7.513892744396823
+Dominican Republic,DOM,2023,2024,test,Simple Average (fixed bases),5.846,5.79904985913275
+Algeria,DZA,2023,2024,test,Simple Average (fixed bases),5.571,5.342586214377963
+Ecuador,ECU,2023,2024,test,Simple Average (fixed bases),5.965,5.764469584078356
+Egypt,EGY,2023,2024,test,Simple Average (fixed bases),3.817,4.008947467279802
+Spain,ESP,2023,2024,test,Simple Average (fixed bases),6.466,6.451271645611565
+Estonia,EST,2023,2024,test,Simple Average (fixed bases),6.417,6.470432784748973
+Ethiopia,ETH,2023,2024,test,Simple Average (fixed bases),3.898,3.856994461384802
+Finland,FIN,2023,2024,test,Simple Average (fixed bases),7.736,7.701665939311589
+France,FRA,2023,2024,test,Simple Average (fixed bases),6.593,6.580866295510474
+Gabon,GAB,2023,2024,test,Simple Average (fixed bases),5.12,5.10730991829054
+United Kingdom,GBR,2023,2024,test,Simple Average (fixed bases),6.728,6.750993337529984
+Georgia,GEO,2023,2024,test,Simple Average (fixed bases),5.4,5.273127440275307
+Ghana,GHA,2023,2024,test,Simple Average (fixed bases),4.34,4.291864538498358
+Guinea,GIN,2023,2024,test,Simple Average (fixed bases),4.929,4.992657579965491
+Gambia,GMB,2023,2024,test,Simple Average (fixed bases),4.423,4.3857309771662285
+Greece,GRC,2023,2024,test,Simple Average (fixed bases),5.776,6.062723197078082
+Guatemala,GTM,2023,2024,test,Simple Average (fixed bases),6.362,6.13454430917935
+Hong Kong,HKG,2023,2024,test,Simple Average (fixed bases),5.491,5.5862997888088275
+Honduras,HND,2023,2024,test,Simple Average (fixed bases),5.964,5.955244065990651
+Croatia,HRV,2023,2024,test,Simple Average (fixed bases),5.87,6.135130636374526
+Hungary,HUN,2023,2024,test,Simple Average (fixed bases),5.915,6.0771675469583455
+Indonesia,IDN,2023,2024,test,Simple Average (fixed bases),5.617,5.6007715249725045
+India,IND,2023,2024,test,Simple Average (fixed bases),4.389,4.292380207493955
+Ireland,IRL,2023,2024,test,Simple Average (fixed bases),6.889,6.908602230316568
+Iran,IRN,2023,2024,test,Simple Average (fixed bases),5.093,4.951415895159834
+Iraq,IRQ,2023,2024,test,Simple Average (fixed bases),4.976,5.118104635171853
+Iceland,ISL,2023,2024,test,Simple Average (fixed bases),7.515,7.472380769336641
+Israel,ISR,2023,2024,test,Simple Average (fixed bases),7.234,7.34096353121074
+Italy,ITA,2023,2024,test,Simple Average (fixed bases),6.415,6.387441625395034
+Jamaica,JAM,2023,2024,test,Simple Average (fixed bases),5.87,5.762713222918099
+Jordan,JOR,2023,2024,test,Simple Average (fixed bases),4.31,4.054172071573649
+Japan,JPN,2023,2024,test,Simple Average (fixed bases),6.147,6.2094762223022215
+Kazakhstan,KAZ,2023,2024,test,Simple Average (fixed bases),6.378,6.167933554461533
+Kenya,KEN,2023,2024,test,Simple Average (fixed bases),4.51,4.605543534692186
+Kyrgyzstan,KGZ,2023,2024,test,Simple Average (fixed bases),5.858,5.6676223287580285
+Cambodia,KHM,2023,2024,test,Simple Average (fixed bases),4.341,4.373359809406151
+South Korea,KOR,2023,2024,test,Simple Average (fixed bases),6.038,6.165808369019817
+Laos,LAO,2023,2024,test,Simple Average (fixed bases),5.301,5.132807141766099
+Lebanon,LBN,2023,2024,test,Simple Average (fixed bases),3.188,2.762250918101317
+Liberia,LBR,2023,2024,test,Simple Average (fixed bases),4.277,3.999531758784126
+Sri Lanka,LKA,2023,2024,test,Simple Average (fixed bases),3.891,3.9908398593554413
+Lithuania,LTU,2023,2024,test,Simple Average (fixed bases),6.829,6.7891317504754225
+Luxembourg,LUX,2023,2024,test,Simple Average (fixed bases),7.122,7.162261753911962
+Latvia,LVA,2023,2024,test,Simple Average (fixed bases),6.207,6.312538044825886
+Morocco,MAR,2023,2024,test,Simple Average (fixed bases),4.622,4.558328375425064
+Moldova,MDA,2023,2024,test,Simple Average (fixed bases),5.819,5.759859446211614
+Madagascar,MDG,2023,2024,test,Simple Average (fixed bases),4.157,4.288837309658402
+Mexico,MEX,2023,2024,test,Simple Average (fixed bases),6.979,6.472776190569271
+North Macedonia,MKD,2023,2024,test,Simple Average (fixed bases),5.503,5.413477041641213
+Mali,MLI,2023,2024,test,Simple Average (fixed bases),4.345,4.29583521955902
+Malta,MLT,2023,2024,test,Simple Average (fixed bases),6.316,6.388283714380741
+Myanmar,MMR,2023,2024,test,Simple Average (fixed bases),4.321,4.447592281327279
+Montenegro,MNE,2023,2024,test,Simple Average (fixed bases),5.877,5.861411757882833
+Mongolia,MNG,2023,2024,test,Simple Average (fixed bases),5.833,5.696716429314549
+Mozambique,MOZ,2023,2024,test,Simple Average (fixed bases),5.19,5.015246870156183
+Mauritania,MRT,2023,2024,test,Simple Average (fixed bases),4.542,4.613189094860985
+Mauritius,MUS,2023,2024,test,Simple Average (fixed bases),5.832,5.846057613796326
+Malawi,MWI,2023,2024,test,Simple Average (fixed bases),3.26,3.506538387883969
+Malaysia,MYS,2023,2024,test,Simple Average (fixed bases),5.955,6.026920789665038
+Namibia,NAM,2023,2024,test,Simple Average (fixed bases),4.911,4.869104603931208
+Niger,NER,2023,2024,test,Simple Average (fixed bases),4.725,4.397490685101569
+Nigeria,NGA,2023,2024,test,Simple Average (fixed bases),4.885,5.037440653884457
+Nicaragua,NIC,2023,2024,test,Simple Average (fixed bases),6.33,6.212344096573861
+Netherlands,NLD,2023,2024,test,Simple Average (fixed bases),7.306,7.291642782355011
+Norway,NOR,2023,2024,test,Simple Average (fixed bases),7.262,7.243410395837454
+Nepal,NPL,2023,2024,test,Simple Average (fixed bases),5.311,5.051869973712576
+New Zealand,NZL,2023,2024,test,Simple Average (fixed bases),6.952,6.956933674358709
+Pakistan,PAK,2023,2024,test,Simple Average (fixed bases),4.768,4.897771060589002
+Panama,PAN,2023,2024,test,Simple Average (fixed bases),6.407,6.370620437498427
+Peru,PER,2023,2024,test,Simple Average (fixed bases),5.947,5.771040573839105
+Philippines,PHL,2023,2024,test,Simple Average (fixed bases),6.107,5.919310026078282
+Poland,POL,2023,2024,test,Simple Average (fixed bases),6.673,6.39581901853159
+Portugal,PRT,2023,2024,test,Simple Average (fixed bases),6.013,6.185480511302423
+Paraguay,PRY,2023,2024,test,Simple Average (fixed bases),6.172,5.968331200182269
+Palestine,PSE,2023,2024,test,Simple Average (fixed bases),4.78,4.925845532457846
+Romania,ROU,2023,2024,test,Simple Average (fixed bases),6.563,6.49094660371604
+Russia,RUS,2023,2024,test,Simple Average (fixed bases),5.945,5.943908878135562
+Saudi Arabia,SAU,2023,2024,test,Simple Average (fixed bases),6.6,6.543509219356778
+Senegal,SEN,2023,2024,test,Simple Average (fixed bases),4.856,4.971772447180368
+Singapore,SGP,2023,2024,test,Simple Average (fixed bases),6.565,6.5380415355230355
+Sierra Leone,SLE,2023,2024,test,Simple Average (fixed bases),2.998,3.4177069354762053
+El Salvador,SLV,2023,2024,test,Simple Average (fixed bases),6.492,6.311919770279734
+Serbia,SRB,2023,2024,test,Simple Average (fixed bases),6.606,6.288892697705677
+Slovakia,SVK,2023,2024,test,Simple Average (fixed bases),6.221,6.343998424706811
+Slovenia,SVN,2023,2024,test,Simple Average (fixed bases),6.792,6.704203342365248
+Sweden,SWE,2023,2024,test,Simple Average (fixed bases),7.345,7.315990385267998
+Chad,TCD,2023,2024,test,Simple Average (fixed bases),4.384,4.482647437589095
+Togo,TGO,2023,2024,test,Simple Average (fixed bases),4.315,4.327257906797048
+Thailand,THA,2023,2024,test,Simple Average (fixed bases),6.222,5.914251397378501
+Tajikistan,TJK,2023,2024,test,Simple Average (fixed bases),5.411,5.30482682501873
+Tunisia,TUN,2023,2024,test,Simple Average (fixed bases),4.552,4.453807818976858
+Turkey,TUR,2023,2024,test,Simple Average (fixed bases),5.262,4.971587507207082
+Tanzania,TZA,2023,2024,test,Simple Average (fixed bases),3.8,3.8699579983747836
+Uganda,UGA,2023,2024,test,Simple Average (fixed bases),4.461,4.333041203501099
+Ukraine,UKR,2023,2024,test,Simple Average (fixed bases),4.68,4.797813730073376
+Uruguay,URY,2023,2024,test,Simple Average (fixed bases),6.661,6.5277679812225555
+United States,USA,2023,2024,test,Simple Average (fixed bases),6.724,6.825031655861076
+Uzbekistan,UZB,2023,2024,test,Simple Average (fixed bases),6.193,6.084231706326471
+Vietnam,VNM,2023,2024,test,Simple Average (fixed bases),6.352,5.908328927343004
+South Africa,ZAF,2023,2024,test,Simple Average (fixed bases),5.213,5.401483098231698
+Zambia,ZMB,2023,2024,test,Simple Average (fixed bases),3.912,3.631882810766102
+Zimbabwe,ZWE,2023,2024,test,Simple Average (fixed bases),3.396,3.4606383184692624
+Afghanistan,AFG,2022,2023,val,Simple Average (selected bases),1.721,2.178498923757791
+Albania,ALB,2022,2023,val,Simple Average (selected bases),5.304,5.289726355921439
+United Arab Emirates,ARE,2022,2023,val,Simple Average (selected bases),6.733,6.477085022585406
+Argentina,ARG,2022,2023,val,Simple Average (selected bases),6.188,6.133796861619665
+Armenia,ARM,2022,2023,val,Simple Average (selected bases),5.455,5.407016036059069
+Australia,AUS,2022,2023,val,Simple Average (selected bases),7.057,7.073113169257198
+Austria,AUT,2022,2023,val,Simple Average (selected bases),6.905,7.058925356452022
+Belgium,BEL,2022,2023,val,Simple Average (selected bases),6.894,6.856857250665077
+Benin,BEN,2022,2023,val,Simple Average (selected bases),4.377,4.293976040444895
+Burkina Faso,BFA,2022,2023,val,Simple Average (selected bases),4.548,4.615775530174533
+Bangladesh,BGD,2022,2023,val,Simple Average (selected bases),3.886,4.353816891911703
+Bulgaria,BGR,2022,2023,val,Simple Average (selected bases),5.463,5.650844131270683
+Bahrain,BHR,2022,2023,val,Simple Average (selected bases),5.959,6.2251459364339174
+Bosnia and Herzegovina,BIH,2022,2023,val,Simple Average (selected bases),5.877,5.681512847275086
+Bolivia,BOL,2022,2023,val,Simple Average (selected bases),5.784,5.717488564534865
+Brazil,BRA,2022,2023,val,Simple Average (selected bases),6.272,6.15392171997797
+Botswana,BWA,2022,2023,val,Simple Average (selected bases),3.383,3.5013446406843136
+Canada,CAN,2022,2023,val,Simple Average (selected bases),6.9,6.9127782951672785
+Switzerland,CHE,2022,2023,val,Simple Average (selected bases),7.06,7.267201872044814
+Chile,CHL,2022,2023,val,Simple Average (selected bases),6.36,6.279605360214304
+China,CHN,2022,2023,val,Simple Average (selected bases),5.973,5.799626675707645
+Cote d'Ivoire,CIV,2022,2023,val,Simple Average (selected bases),5.08,4.97962035655856
+Cameroon,CMR,2022,2023,val,Simple Average (selected bases),4.874,4.956848686164174
+Congo,COG,2022,2023,val,Simple Average (selected bases),5.221,5.247208336737794
+Colombia,COL,2022,2023,val,Simple Average (selected bases),5.695,5.644024628479979
+Comoros,COM,2022,2023,val,Simple Average (selected bases),3.566,3.703424504281188
+Costa Rica,CRI,2022,2023,val,Simple Average (selected bases),6.955,6.515203690911115
+Cyprus,CYP,2022,2023,val,Simple Average (selected bases),6.068,6.256917094112851
+Czechia,CZE,2022,2023,val,Simple Average (selected bases),6.822,6.836670030372571
+Germany,DEU,2022,2023,val,Simple Average (selected bases),6.719,6.86177233867799
+Denmark,DNK,2022,2023,val,Simple Average (selected bases),7.583,7.520455656275505
+Dominican Republic,DOM,2022,2023,val,Simple Average (selected bases),5.823,5.632162968552624
+Algeria,DZA,2022,2023,val,Simple Average (selected bases),5.364,5.3444583485810115
+Ecuador,ECU,2022,2023,val,Simple Average (selected bases),5.725,5.661624647742525
+Egypt,EGY,2022,2023,val,Simple Average (selected bases),3.977,4.30658317874071
+Spain,ESP,2022,2023,val,Simple Average (selected bases),6.421,6.4383317355047405
+Estonia,EST,2022,2023,val,Simple Average (selected bases),6.448,6.4320540882538495
+Ethiopia,ETH,2022,2023,val,Simple Average (selected bases),3.861,4.1461241381295935
+Finland,FIN,2022,2023,val,Simple Average (selected bases),7.741,7.64275056753594
+France,FRA,2022,2023,val,Simple Average (selected bases),6.609,6.639661213896237
+Gabon,GAB,2022,2023,val,Simple Average (selected bases),5.106,5.049931010694023
+United Kingdom,GBR,2022,2023,val,Simple Average (selected bases),6.749,6.789901336274082
+Georgia,GEO,2022,2023,val,Simple Average (selected bases),5.185,5.142234699213071
+Ghana,GHA,2022,2023,val,Simple Average (selected bases),4.289,4.568532390209737
+Guinea,GIN,2022,2023,val,Simple Average (selected bases),5.023,5.038362238186402
+Gambia,GMB,2022,2023,val,Simple Average (selected bases),4.485,4.2886307805497195
+Greece,GRC,2022,2023,val,Simple Average (selected bases),5.934,6.04161701471402
+Guatemala,GTM,2022,2023,val,Simple Average (selected bases),6.287,6.106417525557691
+Hong Kong,HKG,2022,2023,val,Simple Average (selected bases),5.316,5.575090021057794
+Honduras,HND,2022,2023,val,Simple Average (selected bases),5.968,5.9924683678655954
+Croatia,HRV,2022,2023,val,Simple Average (selected bases),5.942,6.208557854249915
+Hungary,HUN,2022,2023,val,Simple Average (selected bases),6.017,6.125250800839356
+Indonesia,IDN,2022,2023,val,Simple Average (selected bases),5.568,5.313357677767175
+India,IND,2022,2023,val,Simple Average (selected bases),4.054,4.255640957608397
+Ireland,IRL,2022,2023,val,Simple Average (selected bases),6.838,6.927084454141525
+Iran,IRN,2022,2023,val,Simple Average (selected bases),4.923,4.896109533994072
+Iraq,IRQ,2022,2023,val,Simple Average (selected bases),5.166,5.010331667109832
+Iceland,ISL,2022,2023,val,Simple Average (selected bases),7.525,7.487223264084235
+Israel,ISR,2022,2023,val,Simple Average (selected bases),7.341,7.362545009540294
+Italy,ITA,2022,2023,val,Simple Average (selected bases),6.324,6.44106773830245
+Jamaica,JAM,2022,2023,val,Simple Average (selected bases),5.842,5.7419201937243605
+Jordan,JOR,2022,2023,val,Simple Average (selected bases),4.186,4.096265604241918
+Japan,JPN,2022,2023,val,Simple Average (selected bases),6.06,6.246174958458049
+Kazakhstan,KAZ,2022,2023,val,Simple Average (selected bases),6.188,6.151463729637801
+Kenya,KEN,2022,2023,val,Simple Average (selected bases),4.47,4.5577956972864975
+Kyrgyzstan,KGZ,2022,2023,val,Simple Average (selected bases),5.714,5.760950288159486
+Cambodia,KHM,2022,2023,val,Simple Average (selected bases),4.341,4.416370193097632
+South Korea,KOR,2022,2023,val,Simple Average (selected bases),6.058,6.10572120987077
+Laos,LAO,2022,2023,val,Simple Average (selected bases),5.139,5.073035512052161
+Lebanon,LBN,2022,2023,val,Simple Average (selected bases),2.707,2.6124882312185083
+Liberia,LBR,2022,2023,val,Simple Average (selected bases),4.269,3.963348421035049
+Sri Lanka,LKA,2022,2023,val,Simple Average (selected bases),3.898,4.577070258154404
+Lithuania,LTU,2022,2023,val,Simple Average (selected bases),6.818,6.705532664016684
+Luxembourg,LUX,2022,2023,val,Simple Average (selected bases),7.122,7.212192685820649
+Latvia,LVA,2022,2023,val,Simple Average (selected bases),6.234,6.255462331054034
+Morocco,MAR,2022,2023,val,Simple Average (selected bases),4.795,4.851556741520465
+Moldova,MDA,2022,2023,val,Simple Average (selected bases),5.816,5.788451750456663
+Madagascar,MDG,2022,2023,val,Simple Average (selected bases),4.228,4.092375517069615
+Mexico,MEX,2022,2023,val,Simple Average (selected bases),6.678,6.205181614726025
+North Macedonia,MKD,2022,2023,val,Simple Average (selected bases),5.369,5.256638975070487
+Mali,MLI,2022,2023,val,Simple Average (selected bases),4.232,4.286139524602316
+Malta,MLT,2022,2023,val,Simple Average (selected bases),6.346,6.3133600306649456
+Myanmar,MMR,2022,2023,val,Simple Average (selected bases),4.354,4.402938650664219
+Montenegro,MNE,2022,2023,val,Simple Average (selected bases),5.707,5.816977810973506
+Mongolia,MNG,2022,2023,val,Simple Average (selected bases),5.696,5.814529141766664
+Mozambique,MOZ,2022,2023,val,Simple Average (selected bases),5.216,4.872866874053165
+Mauritania,MRT,2022,2023,val,Simple Average (selected bases),4.505,4.827259704948754
+Mauritius,MUS,2022,2023,val,Simple Average (selected bases),5.816,5.940222395463192
+Malawi,MWI,2022,2023,val,Simple Average (selected bases),3.421,3.675161417673554
+Malaysia,MYS,2022,2023,val,Simple Average (selected bases),5.975,6.007827690626855
+Namibia,NAM,2022,2023,val,Simple Average (selected bases),4.832,4.688089872875066
+Niger,NER,2022,2023,val,Simple Average (selected bases),4.556,4.391364968513137
+Nigeria,NGA,2022,2023,val,Simple Average (selected bases),4.881,5.030193358225325
+Nicaragua,NIC,2022,2023,val,Simple Average (selected bases),6.284,6.207204182107511
+Netherlands,NLD,2022,2023,val,Simple Average (selected bases),7.319,7.32759653112326
+Norway,NOR,2022,2023,val,Simple Average (selected bases),7.302,7.282046667461201
+Nepal,NPL,2022,2023,val,Simple Average (selected bases),5.158,5.313226248103381
+New Zealand,NZL,2022,2023,val,Simple Average (selected bases),7.029,7.096466649899077
+Pakistan,PAK,2022,2023,val,Simple Average (selected bases),4.657,4.486551452984304
+Panama,PAN,2022,2023,val,Simple Average (selected bases),6.358,6.23944060997935
+Peru,PER,2022,2023,val,Simple Average (selected bases),5.841,5.619713448321957
+Philippines,PHL,2022,2023,val,Simple Average (selected bases),6.048,5.603117448922137
+Poland,POL,2022,2023,val,Simple Average (selected bases),6.442,6.191171788705233
+Portugal,PRT,2022,2023,val,Simple Average (selected bases),6.03,6.156788966700273
+Paraguay,PRY,2022,2023,val,Simple Average (selected bases),5.977,5.777041834372242
+Palestine,PSE,2022,2023,val,Simple Average (selected bases),4.879,4.981951974657221
+Romania,ROU,2022,2023,val,Simple Average (selected bases),6.491,6.4601804574393
+Russia,RUS,2022,2023,val,Simple Average (selected bases),5.785,5.777461700051017
+Saudi Arabia,SAU,2022,2023,val,Simple Average (selected bases),6.594,6.472212796358421
+Senegal,SEN,2022,2023,val,Simple Average (selected bases),4.969,4.870933438216273
+Singapore,SGP,2022,2023,val,Simple Average (selected bases),6.523,6.509165779755787
+Sierra Leone,SLE,2022,2023,val,Simple Average (selected bases),3.245,3.264161678127351
+El Salvador,SLV,2022,2023,val,Simple Average (selected bases),6.469,6.138139019563636
+Serbia,SRB,2022,2023,val,Simple Average (selected bases),6.411,6.172411786395106
+Slovakia,SVK,2022,2023,val,Simple Average (selected bases),6.257,6.449487214235618
+Slovenia,SVN,2022,2023,val,Simple Average (selected bases),6.743,6.590573371185442
+Sweden,SWE,2022,2023,val,Simple Average (selected bases),7.344,7.311025753029779
+Chad,TCD,2022,2023,val,Simple Average (selected bases),4.471,4.4087291002537095
+Togo,TGO,2022,2023,val,Simple Average (selected bases),4.214,4.340608148218618
+Thailand,THA,2022,2023,val,Simple Average (selected bases),5.976,5.824109451878589
+Tajikistan,TJK,2022,2023,val,Simple Average (selected bases),5.281,5.348518478895815
+Tunisia,TUN,2022,2023,val,Simple Average (selected bases),4.422,4.5066815843000665
+Turkey,TUR,2022,2023,val,Simple Average (selected bases),4.975,4.474613193847862
+Tanzania,TZA,2022,2023,val,Simple Average (selected bases),3.781,3.811126619610604
+Uganda,UGA,2022,2023,val,Simple Average (selected bases),4.372,4.464693213619193
+Ukraine,UKR,2022,2023,val,Simple Average (selected bases),4.873,5.012937396606961
+Uruguay,URY,2022,2023,val,Simple Average (selected bases),6.611,6.447258619896634
+United States,USA,2022,2023,val,Simple Average (selected bases),6.725,6.903547088433849
+Uzbekistan,UZB,2022,2023,val,Simple Average (selected bases),6.195,5.996852488702213
+Vietnam,VNM,2022,2023,val,Simple Average (selected bases),6.043,5.751844889301469
+South Africa,ZAF,2022,2023,val,Simple Average (selected bases),5.422,5.24583671216089
+Zambia,ZMB,2022,2023,val,Simple Average (selected bases),3.502,4.10927796270407
+Zimbabwe,ZWE,2022,2023,val,Simple Average (selected bases),3.341,3.3127385353298138
+Afghanistan,AFG,2023,2024,test,Simple Average (selected bases),1.364,2.148907283921161
+Albania,ALB,2023,2024,test,Simple Average (selected bases),5.411,5.313179441888896
+United Arab Emirates,ARE,2023,2024,test,Simple Average (selected bases),6.759,6.679522864726586
+Argentina,ARG,2023,2024,test,Simple Average (selected bases),6.397,6.216255022268371
+Armenia,ARM,2023,2024,test,Simple Average (selected bases),5.494,5.555740072687105
+Australia,AUS,2023,2024,test,Simple Average (selected bases),6.974,6.974124061930897
+Austria,AUT,2023,2024,test,Simple Average (selected bases),6.81,6.910741019489833
+Belgium,BEL,2023,2024,test,Simple Average (selected bases),6.91,6.864711086083996
+Benin,BEN,2023,2024,test,Simple Average (selected bases),4.357,4.370954019367854
+Burkina Faso,BFA,2023,2024,test,Simple Average (selected bases),4.383,4.523539983549508
+Bangladesh,BGD,2023,2024,test,Simple Average (selected bases),3.851,3.8242612096527364
+Bulgaria,BGR,2023,2024,test,Simple Average (selected bases),5.554,5.6823705378767215
+Bahrain,BHR,2023,2024,test,Simple Average (selected bases),6.03,6.061671059421514
+Bosnia and Herzegovina,BIH,2023,2024,test,Simple Average (selected bases),6.136,5.830792946126075
+Bolivia,BOL,2023,2024,test,Simple Average (selected bases),5.868,5.803293463427593
+Brazil,BRA,2023,2024,test,Simple Average (selected bases),6.494,6.222161536599096
+Botswana,BWA,2023,2024,test,Simple Average (selected bases),3.438,3.4877994024660595
+Canada,CAN,2023,2024,test,Simple Average (selected bases),6.803,6.89428346181161
+Switzerland,CHE,2023,2024,test,Simple Average (selected bases),6.935,7.023044534393868
+Chile,CHL,2023,2024,test,Simple Average (selected bases),6.361,6.344910268517954
+China,CHN,2023,2024,test,Simple Average (selected bases),5.921,5.971429052796222
+Cote d'Ivoire,CIV,2023,2024,test,Simple Average (selected bases),5.102,5.012150775414145
+Cameroon,CMR,2023,2024,test,Simple Average (selected bases),4.887,4.896123318821576
+Congo,COG,2023,2024,test,Simple Average (selected bases),5.03,5.176353419198698
+Colombia,COL,2023,2024,test,Simple Average (selected bases),6.004,5.690170553712721
+Comoros,COM,2023,2024,test,Simple Average (selected bases),3.754,3.6131742710777295
+Costa Rica,CRI,2023,2024,test,Simple Average (selected bases),7.274,6.843787554479317
+Cyprus,CYP,2023,2024,test,Simple Average (selected bases),5.942,6.208830347822079
+Czechia,CZE,2023,2024,test,Simple Average (selected bases),6.775,6.818159029394757
+Germany,DEU,2023,2024,test,Simple Average (selected bases),6.753,6.760861225393529
+Denmark,DNK,2023,2024,test,Simple Average (selected bases),7.521,7.504417918846066
+Dominican Republic,DOM,2023,2024,test,Simple Average (selected bases),5.846,5.794582926506784
+Algeria,DZA,2023,2024,test,Simple Average (selected bases),5.571,5.357803673228673
+Ecuador,ECU,2023,2024,test,Simple Average (selected bases),5.965,5.771111387904007
+Egypt,EGY,2023,2024,test,Simple Average (selected bases),3.817,4.061078600527274
+Spain,ESP,2023,2024,test,Simple Average (selected bases),6.466,6.427803718018434
+Estonia,EST,2023,2024,test,Simple Average (selected bases),6.417,6.4407608168712
+Ethiopia,ETH,2023,2024,test,Simple Average (selected bases),3.898,3.8499154385247127
+Finland,FIN,2023,2024,test,Simple Average (selected bases),7.736,7.64188201444182
+France,FRA,2023,2024,test,Simple Average (selected bases),6.593,6.548884765689354
+Gabon,GAB,2023,2024,test,Simple Average (selected bases),5.12,5.087619954567985
+United Kingdom,GBR,2023,2024,test,Simple Average (selected bases),6.728,6.76379394615475
+Georgia,GEO,2023,2024,test,Simple Average (selected bases),5.4,5.244935255802464
+Ghana,GHA,2023,2024,test,Simple Average (selected bases),4.34,4.31597334115336
+Guinea,GIN,2023,2024,test,Simple Average (selected bases),4.929,4.995165533455238
+Gambia,GMB,2023,2024,test,Simple Average (selected bases),4.423,4.41932634200352
+Greece,GRC,2023,2024,test,Simple Average (selected bases),5.776,6.060934090144483
+Guatemala,GTM,2023,2024,test,Simple Average (selected bases),6.362,6.149906406841606
+Hong Kong,HKG,2023,2024,test,Simple Average (selected bases),5.491,5.597559878330831
+Honduras,HND,2023,2024,test,Simple Average (selected bases),5.964,5.959842345759111
+Croatia,HRV,2023,2024,test,Simple Average (selected bases),5.87,6.095061691857398
+Hungary,HUN,2023,2024,test,Simple Average (selected bases),5.915,6.07848230395492
+Indonesia,IDN,2023,2024,test,Simple Average (selected bases),5.617,5.600815181824976
+India,IND,2023,2024,test,Simple Average (selected bases),4.389,4.273717854275877
+Ireland,IRL,2023,2024,test,Simple Average (selected bases),6.889,6.891344392559901
+Iran,IRN,2023,2024,test,Simple Average (selected bases),5.093,4.951151534699945
+Iraq,IRQ,2023,2024,test,Simple Average (selected bases),4.976,5.1177665584485235
+Iceland,ISL,2023,2024,test,Simple Average (selected bases),7.515,7.483541763331467
+Israel,ISR,2023,2024,test,Simple Average (selected bases),7.234,7.325418098495562
+Italy,ITA,2023,2024,test,Simple Average (selected bases),6.415,6.324843427734692
+Jamaica,JAM,2023,2024,test,Simple Average (selected bases),5.87,5.789401028928178
+Jordan,JOR,2023,2024,test,Simple Average (selected bases),4.31,4.117612447295172
+Japan,JPN,2023,2024,test,Simple Average (selected bases),6.147,6.201960147974308
+Kazakhstan,KAZ,2023,2024,test,Simple Average (selected bases),6.378,6.173062866611031
+Kenya,KEN,2023,2024,test,Simple Average (selected bases),4.51,4.574797409267738
+Kyrgyzstan,KGZ,2023,2024,test,Simple Average (selected bases),5.858,5.674759472922841
+Cambodia,KHM,2023,2024,test,Simple Average (selected bases),4.341,4.37549309732085
+South Korea,KOR,2023,2024,test,Simple Average (selected bases),6.038,6.173472667406371
+Laos,LAO,2023,2024,test,Simple Average (selected bases),5.301,5.136214487037212
+Lebanon,LBN,2023,2024,test,Simple Average (selected bases),3.188,2.747494700355576
+Liberia,LBR,2023,2024,test,Simple Average (selected bases),4.277,4.084564526215629
+Sri Lanka,LKA,2023,2024,test,Simple Average (selected bases),3.891,3.941889972826821
+Lithuania,LTU,2023,2024,test,Simple Average (selected bases),6.829,6.795658478639784
+Luxembourg,LUX,2023,2024,test,Simple Average (selected bases),7.122,7.1222430361600635
+Latvia,LVA,2023,2024,test,Simple Average (selected bases),6.207,6.260206251735894
+Morocco,MAR,2023,2024,test,Simple Average (selected bases),4.622,4.703000386903186
+Moldova,MDA,2023,2024,test,Simple Average (selected bases),5.819,5.779809394855671
+Madagascar,MDG,2023,2024,test,Simple Average (selected bases),4.157,4.289248896753275
+Mexico,MEX,2023,2024,test,Simple Average (selected bases),6.979,6.525562258008105
+North Macedonia,MKD,2023,2024,test,Simple Average (selected bases),5.503,5.406911906814389
+Mali,MLI,2023,2024,test,Simple Average (selected bases),4.345,4.308517927999222
+Malta,MLT,2023,2024,test,Simple Average (selected bases),6.316,6.355769150300122
+Myanmar,MMR,2023,2024,test,Simple Average (selected bases),4.321,4.4227816587199404
+Montenegro,MNE,2023,2024,test,Simple Average (selected bases),5.877,5.840273716428109
+Mongolia,MNG,2023,2024,test,Simple Average (selected bases),5.833,5.72039245911368
+Mozambique,MOZ,2023,2024,test,Simple Average (selected bases),5.19,5.047078370032186
+Mauritania,MRT,2023,2024,test,Simple Average (selected bases),4.542,4.598787999652976
+Mauritius,MUS,2023,2024,test,Simple Average (selected bases),5.832,5.8359180458247595
+Malawi,MWI,2023,2024,test,Simple Average (selected bases),3.26,3.49624059627545
+Malaysia,MYS,2023,2024,test,Simple Average (selected bases),5.955,6.04207136516398
+Namibia,NAM,2023,2024,test,Simple Average (selected bases),4.911,4.864530142917007
+Niger,NER,2023,2024,test,Simple Average (selected bases),4.725,4.416532029675975
+Nigeria,NGA,2023,2024,test,Simple Average (selected bases),4.885,5.022919049206078
+Nicaragua,NIC,2023,2024,test,Simple Average (selected bases),6.33,6.213210057834556
+Netherlands,NLD,2023,2024,test,Simple Average (selected bases),7.306,7.284870815003519
+Norway,NOR,2023,2024,test,Simple Average (selected bases),7.262,7.251587460475064
+Nepal,NPL,2023,2024,test,Simple Average (selected bases),5.311,5.050168546350126
+New Zealand,NZL,2023,2024,test,Simple Average (selected bases),6.952,6.952039212316179
+Pakistan,PAK,2023,2024,test,Simple Average (selected bases),4.768,4.8479205959767695
+Panama,PAN,2023,2024,test,Simple Average (selected bases),6.407,6.367313314709058
+Peru,PER,2023,2024,test,Simple Average (selected bases),5.947,5.779096656695443
+Philippines,PHL,2023,2024,test,Simple Average (selected bases),6.107,5.977033878038696
+Poland,POL,2023,2024,test,Simple Average (selected bases),6.673,6.360955998661756
+Portugal,PRT,2023,2024,test,Simple Average (selected bases),6.013,6.190647357615013
+Paraguay,PRY,2023,2024,test,Simple Average (selected bases),6.172,5.999230248576659
+Palestine,PSE,2023,2024,test,Simple Average (selected bases),4.78,4.969911604577741
+Romania,ROU,2023,2024,test,Simple Average (selected bases),6.563,6.463157006534003
+Russia,RUS,2023,2024,test,Simple Average (selected bases),5.945,5.892636175869974
+Saudi Arabia,SAU,2023,2024,test,Simple Average (selected bases),6.6,6.51891471545525
+Senegal,SEN,2023,2024,test,Simple Average (selected bases),4.856,4.962538744618292
+Singapore,SGP,2023,2024,test,Simple Average (selected bases),6.565,6.509463457695706
+Sierra Leone,SLE,2023,2024,test,Simple Average (selected bases),2.998,3.401126348484523
+El Salvador,SLV,2023,2024,test,Simple Average (selected bases),6.492,6.341695775058835
+Serbia,SRB,2023,2024,test,Simple Average (selected bases),6.606,6.3309312079251425
+Slovakia,SVK,2023,2024,test,Simple Average (selected bases),6.221,6.292364607222595
+Slovenia,SVN,2023,2024,test,Simple Average (selected bases),6.792,6.713277213481469
+Sweden,SWE,2023,2024,test,Simple Average (selected bases),7.345,7.300039573277111
+Chad,TCD,2023,2024,test,Simple Average (selected bases),4.384,4.505777712760303
+Togo,TGO,2023,2024,test,Simple Average (selected bases),4.315,4.380067929138442
+Thailand,THA,2023,2024,test,Simple Average (selected bases),6.222,5.968402845785357
+Tajikistan,TJK,2023,2024,test,Simple Average (selected bases),5.411,5.300718055954193
+Tunisia,TUN,2023,2024,test,Simple Average (selected bases),4.552,4.423508218065337
+Turkey,TUR,2023,2024,test,Simple Average (selected bases),5.262,5.025796919626692
+Tanzania,TZA,2023,2024,test,Simple Average (selected bases),3.8,3.856988514544969
+Uganda,UGA,2023,2024,test,Simple Average (selected bases),4.461,4.356961654789974
+Ukraine,UKR,2023,2024,test,Simple Average (selected bases),4.68,4.853707877994727
+Uruguay,URY,2023,2024,test,Simple Average (selected bases),6.661,6.5207842751192855
+United States,USA,2023,2024,test,Simple Average (selected bases),6.724,6.8245846305957585
+Uzbekistan,UZB,2023,2024,test,Simple Average (selected bases),6.193,6.105598113666922
+Vietnam,VNM,2023,2024,test,Simple Average (selected bases),6.352,5.96764384177364
+South Africa,ZAF,2023,2024,test,Simple Average (selected bases),5.213,5.410645470131751
+Zambia,ZMB,2023,2024,test,Simple Average (selected bases),3.912,3.633097683049788
+Zimbabwe,ZWE,2023,2024,test,Simple Average (selected bases),3.396,3.484380774636762

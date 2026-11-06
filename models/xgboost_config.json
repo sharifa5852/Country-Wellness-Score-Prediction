@@ -1,0 +1,30 @@
+{
+  "max_depth": 2,
+  "learning_rate": 0.03,
+  "n_estimators": 500,
+  "subsample": 0.8,
+  "colsample_bytree": 0.8,
+  "reg_lambda": 1.0,
+  "tree_method": "hist",
+  "n_jobs": -1,
+  "random_state": 42,
+  "verbosity": 0,
+  "selected_on": "validation RMSE",
+  "grid": {
+    "max_depth": [
+      2,
+      3,
+      4
+    ],
+    "learning_rate": [
+      0.03,
+      0.1
+    ],
+    "n_estimators": [
+      200,
+      500
+    ]
+  },
+  "fit_rows": "train only",
+  "input": "imputed, unscaled"
+}

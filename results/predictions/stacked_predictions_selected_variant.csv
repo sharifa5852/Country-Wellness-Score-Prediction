@@ -1,0 +1,267 @@
+Country,Code,Year,TargetYear,split,model,y_true,y_pred
+Afghanistan,AFG,2022,2023,val,Stacked Ensemble,1.721,2.3094710993932632
+Albania,ALB,2022,2023,val,Stacked Ensemble,5.304,5.268985065342965
+United Arab Emirates,ARE,2022,2023,val,Stacked Ensemble,6.733,6.469297616108365
+Argentina,ARG,2022,2023,val,Stacked Ensemble,6.188,6.129066047042846
+Armenia,ARM,2022,2023,val,Stacked Ensemble,5.455,5.402888498662696
+Australia,AUS,2022,2023,val,Stacked Ensemble,7.057,7.144880073331326
+Austria,AUT,2022,2023,val,Stacked Ensemble,6.905,7.1305047556034005
+Belgium,BEL,2022,2023,val,Stacked Ensemble,6.894,6.929778219658189
+Benin,BEN,2022,2023,val,Stacked Ensemble,4.377,4.277881635850552
+Burkina Faso,BFA,2022,2023,val,Stacked Ensemble,4.548,4.640889813842022
+Bangladesh,BGD,2022,2023,val,Stacked Ensemble,3.886,4.305291267883193
+Bulgaria,BGR,2022,2023,val,Stacked Ensemble,5.463,5.638832944563651
+Bahrain,BHR,2022,2023,val,Stacked Ensemble,5.959,6.2212966105445755
+Bosnia and Herzegovina,BIH,2022,2023,val,Stacked Ensemble,5.877,5.677846217525298
+Bolivia,BOL,2022,2023,val,Stacked Ensemble,5.784,5.726913821559552
+Brazil,BRA,2022,2023,val,Stacked Ensemble,6.272,6.176492339958324
+Botswana,BWA,2022,2023,val,Stacked Ensemble,3.383,3.4285930081852563
+Canada,CAN,2022,2023,val,Stacked Ensemble,6.9,6.966534720991389
+Switzerland,CHE,2022,2023,val,Stacked Ensemble,7.06,7.328542043637202
+Chile,CHL,2022,2023,val,Stacked Ensemble,6.36,6.340653880453768
+China,CHN,2022,2023,val,Stacked Ensemble,5.973,5.809548191353971
+Cote d'Ivoire,CIV,2022,2023,val,Stacked Ensemble,5.08,4.960342762912375
+Cameroon,CMR,2022,2023,val,Stacked Ensemble,4.874,4.957253764678172
+Congo,COG,2022,2023,val,Stacked Ensemble,5.221,5.227687102825742
+Colombia,COL,2022,2023,val,Stacked Ensemble,5.695,5.646439075809306
+Comoros,COM,2022,2023,val,Stacked Ensemble,3.566,3.6104253472299193
+Costa Rica,CRI,2022,2023,val,Stacked Ensemble,6.955,6.5497223697905635
+Cyprus,CYP,2022,2023,val,Stacked Ensemble,6.068,6.254350949702404
+Czechia,CZE,2022,2023,val,Stacked Ensemble,6.822,6.910337192361382
+Germany,DEU,2022,2023,val,Stacked Ensemble,6.719,6.912827755679611
+Denmark,DNK,2022,2023,val,Stacked Ensemble,7.583,7.602711042153101
+Dominican Republic,DOM,2022,2023,val,Stacked Ensemble,5.823,5.633649261954134
+Algeria,DZA,2022,2023,val,Stacked Ensemble,5.364,5.333665491448055
+Ecuador,ECU,2022,2023,val,Stacked Ensemble,5.725,5.645361551168514
+Egypt,EGY,2022,2023,val,Stacked Ensemble,3.977,4.2776627935614435
+Spain,ESP,2022,2023,val,Stacked Ensemble,6.421,6.452427143466943
+Estonia,EST,2022,2023,val,Stacked Ensemble,6.448,6.4613732262770345
+Ethiopia,ETH,2022,2023,val,Stacked Ensemble,3.861,4.184459864791611
+Finland,FIN,2022,2023,val,Stacked Ensemble,7.741,7.696051733667986
+France,FRA,2022,2023,val,Stacked Ensemble,6.609,6.689595598635112
+Gabon,GAB,2022,2023,val,Stacked Ensemble,5.106,5.03020848138198
+United Kingdom,GBR,2022,2023,val,Stacked Ensemble,6.749,6.840049074408335
+Georgia,GEO,2022,2023,val,Stacked Ensemble,5.185,5.097680004301677
+Ghana,GHA,2022,2023,val,Stacked Ensemble,4.289,4.50592387081535
+Guinea,GIN,2022,2023,val,Stacked Ensemble,5.023,5.006132957148213
+Gambia,GMB,2022,2023,val,Stacked Ensemble,4.485,4.285564225156953
+Greece,GRC,2022,2023,val,Stacked Ensemble,5.934,6.046268185706879
+Guatemala,GTM,2022,2023,val,Stacked Ensemble,6.287,6.1541460148016185
+Hong Kong,HKG,2022,2023,val,Stacked Ensemble,5.316,5.569615200536881
+Honduras,HND,2022,2023,val,Stacked Ensemble,5.968,6.0504071962434525
+Croatia,HRV,2022,2023,val,Stacked Ensemble,5.942,6.205962706788198
+Hungary,HUN,2022,2023,val,Stacked Ensemble,6.017,6.1407035245135475
+Indonesia,IDN,2022,2023,val,Stacked Ensemble,5.568,5.305781671371573
+India,IND,2022,2023,val,Stacked Ensemble,4.054,4.165809343547132
+Ireland,IRL,2022,2023,val,Stacked Ensemble,6.838,6.9884309273466005
+Iran,IRN,2022,2023,val,Stacked Ensemble,4.923,4.912967899360429
+Iraq,IRQ,2022,2023,val,Stacked Ensemble,5.166,4.991739423770861
+Iceland,ISL,2022,2023,val,Stacked Ensemble,7.525,7.597217622703662
+Israel,ISR,2022,2023,val,Stacked Ensemble,7.341,7.474523632835065
+Italy,ITA,2022,2023,val,Stacked Ensemble,6.324,6.478184176367468
+Jamaica,JAM,2022,2023,val,Stacked Ensemble,5.842,5.7795080878172715
+Jordan,JOR,2022,2023,val,Stacked Ensemble,4.186,4.07435482602159
+Japan,JPN,2022,2023,val,Stacked Ensemble,6.06,6.223170926095572
+Kazakhstan,KAZ,2022,2023,val,Stacked Ensemble,6.188,6.157819266090538
+Kenya,KEN,2022,2023,val,Stacked Ensemble,4.47,4.4934016605734755
+Kyrgyzstan,KGZ,2022,2023,val,Stacked Ensemble,5.714,5.779684800898991
+Cambodia,KHM,2022,2023,val,Stacked Ensemble,4.341,4.360389360944731
+South Korea,KOR,2022,2023,val,Stacked Ensemble,6.058,6.081936318835716
+Laos,LAO,2022,2023,val,Stacked Ensemble,5.139,5.087939068332783
+Lebanon,LBN,2022,2023,val,Stacked Ensemble,2.707,2.5957858852902413
+Liberia,LBR,2022,2023,val,Stacked Ensemble,4.269,3.870431065469318
+Sri Lanka,LKA,2022,2023,val,Stacked Ensemble,3.898,4.533843470551002
+Lithuania,LTU,2022,2023,val,Stacked Ensemble,6.818,6.78019987098318
+Luxembourg,LUX,2022,2023,val,Stacked Ensemble,7.122,7.226690876817386
+Latvia,LVA,2022,2023,val,Stacked Ensemble,6.234,6.237683495161154
+Morocco,MAR,2022,2023,val,Stacked Ensemble,4.795,4.829699515171941
+Moldova,MDA,2022,2023,val,Stacked Ensemble,5.816,5.816548617691783
+Madagascar,MDG,2022,2023,val,Stacked Ensemble,4.228,4.062917023206665
+Mexico,MEX,2022,2023,val,Stacked Ensemble,6.678,6.276007991193887
+North Macedonia,MKD,2022,2023,val,Stacked Ensemble,5.369,5.228262670537683
+Mali,MLI,2022,2023,val,Stacked Ensemble,4.232,4.29693074220001
+Malta,MLT,2022,2023,val,Stacked Ensemble,6.346,6.310533531411764
+Myanmar,MMR,2022,2023,val,Stacked Ensemble,4.354,4.366204652914295
+Montenegro,MNE,2022,2023,val,Stacked Ensemble,5.707,5.841583336681538
+Mongolia,MNG,2022,2023,val,Stacked Ensemble,5.696,5.834267095026237
+Mozambique,MOZ,2022,2023,val,Stacked Ensemble,5.216,4.80852856990663
+Mauritania,MRT,2022,2023,val,Stacked Ensemble,4.505,4.807764530161804
+Mauritius,MUS,2022,2023,val,Stacked Ensemble,5.816,5.932417429747156
+Malawi,MWI,2022,2023,val,Stacked Ensemble,3.421,3.555244781306837
+Malaysia,MYS,2022,2023,val,Stacked Ensemble,5.975,6.031591476277967
+Namibia,NAM,2022,2023,val,Stacked Ensemble,4.832,4.62891480460894
+Niger,NER,2022,2023,val,Stacked Ensemble,4.556,4.322097317372311
+Nigeria,NGA,2022,2023,val,Stacked Ensemble,4.881,5.064222345778741
+Nicaragua,NIC,2022,2023,val,Stacked Ensemble,6.284,6.223259018147561
+Netherlands,NLD,2022,2023,val,Stacked Ensemble,7.319,7.413604029808634
+Norway,NOR,2022,2023,val,Stacked Ensemble,7.302,7.372933646892839
+Nepal,NPL,2022,2023,val,Stacked Ensemble,5.158,5.318063791220964
+New Zealand,NZL,2022,2023,val,Stacked Ensemble,7.029,7.13401180083539
+Pakistan,PAK,2022,2023,val,Stacked Ensemble,4.657,4.432337576082569
+Panama,PAN,2022,2023,val,Stacked Ensemble,6.358,6.258401419922045
+Peru,PER,2022,2023,val,Stacked Ensemble,5.841,5.61459290412364
+Philippines,PHL,2022,2023,val,Stacked Ensemble,6.048,5.616586155620022
+Poland,POL,2022,2023,val,Stacked Ensemble,6.442,6.202712448941183
+Portugal,PRT,2022,2023,val,Stacked Ensemble,6.03,6.162065977526735
+Paraguay,PRY,2022,2023,val,Stacked Ensemble,5.977,5.7920127796828735
+Palestine,PSE,2022,2023,val,Stacked Ensemble,4.879,4.953002110907494
+Romania,ROU,2022,2023,val,Stacked Ensemble,6.491,6.453078294214803
+Russia,RUS,2022,2023,val,Stacked Ensemble,5.785,5.760581381998122
+Saudi Arabia,SAU,2022,2023,val,Stacked Ensemble,6.594,6.4945482028640535
+Senegal,SEN,2022,2023,val,Stacked Ensemble,4.969,4.859662873902128
+Singapore,SGP,2022,2023,val,Stacked Ensemble,6.523,6.522926806853046
+Sierra Leone,SLE,2022,2023,val,Stacked Ensemble,3.245,3.1703967758487828
+El Salvador,SLV,2022,2023,val,Stacked Ensemble,6.469,6.160302147674144
+Serbia,SRB,2022,2023,val,Stacked Ensemble,6.411,6.201301012558228
+Slovakia,SVK,2022,2023,val,Stacked Ensemble,6.257,6.470701422677568
+Slovenia,SVN,2022,2023,val,Stacked Ensemble,6.743,6.644349849263152
+Sweden,SWE,2022,2023,val,Stacked Ensemble,7.344,7.358901759276359
+Chad,TCD,2022,2023,val,Stacked Ensemble,4.471,4.365442448236294
+Togo,TGO,2022,2023,val,Stacked Ensemble,4.214,4.299826546548609
+Thailand,THA,2022,2023,val,Stacked Ensemble,5.976,5.844812638406596
+Tajikistan,TJK,2022,2023,val,Stacked Ensemble,5.281,5.368219892054199
+Tunisia,TUN,2022,2023,val,Stacked Ensemble,4.422,4.441203856851629
+Turkey,TUR,2022,2023,val,Stacked Ensemble,4.975,4.368515277038564
+Tanzania,TZA,2022,2023,val,Stacked Ensemble,3.781,3.679872955431965
+Uganda,UGA,2022,2023,val,Stacked Ensemble,4.372,4.436274985094518
+Ukraine,UKR,2022,2023,val,Stacked Ensemble,4.873,5.048080731309439
+Uruguay,URY,2022,2023,val,Stacked Ensemble,6.611,6.486070180855569
+United States,USA,2022,2023,val,Stacked Ensemble,6.725,6.964569822218736
+Uzbekistan,UZB,2022,2023,val,Stacked Ensemble,6.195,6.044303733826852
+Vietnam,VNM,2022,2023,val,Stacked Ensemble,6.043,5.766964493241581
+South Africa,ZAF,2022,2023,val,Stacked Ensemble,5.422,5.205981960438021
+Zambia,ZMB,2022,2023,val,Stacked Ensemble,3.502,4.048792231835456
+Zimbabwe,ZWE,2022,2023,val,Stacked Ensemble,3.341,3.2147758051115543
+Afghanistan,AFG,2023,2024,test,Stacked Ensemble,1.364,2.158681628196066
+Albania,ALB,2023,2024,test,Stacked Ensemble,5.411,5.305645947801734
+United Arab Emirates,ARE,2023,2024,test,Stacked Ensemble,6.759,6.759185867046126
+Argentina,ARG,2023,2024,test,Stacked Ensemble,6.397,6.223182168692009
+Armenia,ARM,2023,2024,test,Stacked Ensemble,5.494,5.553381178937572
+Australia,AUS,2023,2024,test,Stacked Ensemble,6.974,7.015694158385729
+Austria,AUT,2023,2024,test,Stacked Ensemble,6.81,6.949311656895888
+Belgium,BEL,2023,2024,test,Stacked Ensemble,6.91,6.909867964648443
+Benin,BEN,2023,2024,test,Stacked Ensemble,4.357,4.329275539276649
+Burkina Faso,BFA,2023,2024,test,Stacked Ensemble,4.383,4.496571293933452
+Bangladesh,BGD,2023,2024,test,Stacked Ensemble,3.851,3.7454371865902507
+Bulgaria,BGR,2023,2024,test,Stacked Ensemble,5.554,5.638741582546961
+Bahrain,BHR,2023,2024,test,Stacked Ensemble,6.03,6.067630919619933
+Bosnia and Herzegovina,BIH,2023,2024,test,Stacked Ensemble,6.136,5.854701134022129
+Bolivia,BOL,2023,2024,test,Stacked Ensemble,5.868,5.82252139016644
+Brazil,BRA,2023,2024,test,Stacked Ensemble,6.494,6.243531718080512
+Botswana,BWA,2023,2024,test,Stacked Ensemble,3.438,3.422695075508722
+Canada,CAN,2023,2024,test,Stacked Ensemble,6.803,6.93334080069199
+Switzerland,CHE,2023,2024,test,Stacked Ensemble,6.935,7.051874843479766
+Chile,CHL,2023,2024,test,Stacked Ensemble,6.361,6.390239850184596
+China,CHN,2023,2024,test,Stacked Ensemble,5.921,6.026605514397398
+Cote d'Ivoire,CIV,2023,2024,test,Stacked Ensemble,5.102,4.996429688519059
+Cameroon,CMR,2023,2024,test,Stacked Ensemble,4.887,4.881922979180276
+Congo,COG,2023,2024,test,Stacked Ensemble,5.03,5.162399126166843
+Colombia,COL,2023,2024,test,Stacked Ensemble,6.004,5.689210716404466
+Comoros,COM,2023,2024,test,Stacked Ensemble,3.754,3.5522750878214673
+Costa Rica,CRI,2023,2024,test,Stacked Ensemble,7.274,6.942918032529391
+Cyprus,CYP,2023,2024,test,Stacked Ensemble,5.942,6.215480192518647
+Czechia,CZE,2023,2024,test,Stacked Ensemble,6.775,6.86200669000481
+Germany,DEU,2023,2024,test,Stacked Ensemble,6.753,6.810600810368044
+Denmark,DNK,2023,2024,test,Stacked Ensemble,7.521,7.59812592025512
+Dominican Republic,DOM,2023,2024,test,Stacked Ensemble,5.846,5.808996600380505
+Algeria,DZA,2023,2024,test,Stacked Ensemble,5.571,5.340649113584201
+Ecuador,ECU,2023,2024,test,Stacked Ensemble,5.965,5.784309847435766
+Egypt,EGY,2023,2024,test,Stacked Ensemble,3.817,3.987533833530339
+Spain,ESP,2023,2024,test,Stacked Ensemble,6.466,6.462414232718719
+Estonia,EST,2023,2024,test,Stacked Ensemble,6.417,6.463114859987383
+Ethiopia,ETH,2023,2024,test,Stacked Ensemble,3.898,3.741674985898053
+Finland,FIN,2023,2024,test,Stacked Ensemble,7.736,7.700818589583637
+France,FRA,2023,2024,test,Stacked Ensemble,6.593,6.564589261403228
+Gabon,GAB,2023,2024,test,Stacked Ensemble,5.12,5.063319729690697
+United Kingdom,GBR,2023,2024,test,Stacked Ensemble,6.728,6.7942553153991945
+Georgia,GEO,2023,2024,test,Stacked Ensemble,5.4,5.213743642810754
+Ghana,GHA,2023,2024,test,Stacked Ensemble,4.34,4.277187467827726
+Guinea,GIN,2023,2024,test,Stacked Ensemble,4.929,4.972365941728411
+Gambia,GMB,2023,2024,test,Stacked Ensemble,4.423,4.401256001687638
+Greece,GRC,2023,2024,test,Stacked Ensemble,5.776,6.04700637955476
+Guatemala,GTM,2023,2024,test,Stacked Ensemble,6.362,6.190077461680166
+Hong Kong,HKG,2023,2024,test,Stacked Ensemble,5.491,5.558230412162788
+Honduras,HND,2023,2024,test,Stacked Ensemble,5.964,5.994972462197966
+Croatia,HRV,2023,2024,test,Stacked Ensemble,5.87,6.080251648170029
+Hungary,HUN,2023,2024,test,Stacked Ensemble,5.915,6.091768245180736
+Indonesia,IDN,2023,2024,test,Stacked Ensemble,5.617,5.618468209151879
+India,IND,2023,2024,test,Stacked Ensemble,4.389,4.206785284856488
+Ireland,IRL,2023,2024,test,Stacked Ensemble,6.889,6.933118051802856
+Iran,IRN,2023,2024,test,Stacked Ensemble,5.093,4.929628221137788
+Iraq,IRQ,2023,2024,test,Stacked Ensemble,4.976,5.1330430189107625
+Iceland,ISL,2023,2024,test,Stacked Ensemble,7.515,7.578241255466068
+Israel,ISR,2023,2024,test,Stacked Ensemble,7.234,7.377507061551613
+Italy,ITA,2023,2024,test,Stacked Ensemble,6.415,6.317093409811839
+Jamaica,JAM,2023,2024,test,Stacked Ensemble,5.87,5.825062661997998
+Jordan,JOR,2023,2024,test,Stacked Ensemble,4.31,4.130510619147531
+Japan,JPN,2023,2024,test,Stacked Ensemble,6.147,6.229632044499732
+Kazakhstan,KAZ,2023,2024,test,Stacked Ensemble,6.378,6.1717518565341765
+Kenya,KEN,2023,2024,test,Stacked Ensemble,4.51,4.492212491464193
+Kyrgyzstan,KGZ,2023,2024,test,Stacked Ensemble,5.858,5.706395057265717
+Cambodia,KHM,2023,2024,test,Stacked Ensemble,4.341,4.331729383394484
+South Korea,KOR,2023,2024,test,Stacked Ensemble,6.038,6.1879481997320855
+Laos,LAO,2023,2024,test,Stacked Ensemble,5.301,5.095875289063325
+Lebanon,LBN,2023,2024,test,Stacked Ensemble,3.188,2.755854943546096
+Liberia,LBR,2023,2024,test,Stacked Ensemble,4.277,4.196454793341785
+Sri Lanka,LKA,2023,2024,test,Stacked Ensemble,3.891,3.8241335699560555
+Lithuania,LTU,2023,2024,test,Stacked Ensemble,6.829,6.862175393394183
+Luxembourg,LUX,2023,2024,test,Stacked Ensemble,7.122,7.174514908388645
+Latvia,LVA,2023,2024,test,Stacked Ensemble,6.207,6.251220442719742
+Morocco,MAR,2023,2024,test,Stacked Ensemble,4.622,4.690061808005835
+Moldova,MDA,2023,2024,test,Stacked Ensemble,5.819,5.807641226760432
+Madagascar,MDG,2023,2024,test,Stacked Ensemble,4.157,4.29975698756286
+Mexico,MEX,2023,2024,test,Stacked Ensemble,6.979,6.690382763717466
+North Macedonia,MKD,2023,2024,test,Stacked Ensemble,5.503,5.406244749075972
+Mali,MLI,2023,2024,test,Stacked Ensemble,4.345,4.287732975161995
+Malta,MLT,2023,2024,test,Stacked Ensemble,6.316,6.376198843026124
+Myanmar,MMR,2023,2024,test,Stacked Ensemble,4.321,4.368771441591438
+Montenegro,MNE,2023,2024,test,Stacked Ensemble,5.877,5.854663410009054
+Mongolia,MNG,2023,2024,test,Stacked Ensemble,5.833,5.751394623736293
+Mozambique,MOZ,2023,2024,test,Stacked Ensemble,5.19,5.0096604912232845
+Mauritania,MRT,2023,2024,test,Stacked Ensemble,4.542,4.525972757175142
+Mauritius,MUS,2023,2024,test,Stacked Ensemble,5.832,5.829743438051843
+Malawi,MWI,2023,2024,test,Stacked Ensemble,3.26,3.4476518395985076
+Malaysia,MYS,2023,2024,test,Stacked Ensemble,5.955,6.04597685902653
+Namibia,NAM,2023,2024,test,Stacked Ensemble,4.911,4.8390037227316895
+Niger,NER,2023,2024,test,Stacked Ensemble,4.725,4.404299928408433
+Nigeria,NGA,2023,2024,test,Stacked Ensemble,4.885,4.989059323221814
+Nicaragua,NIC,2023,2024,test,Stacked Ensemble,6.33,6.23911196630407
+Netherlands,NLD,2023,2024,test,Stacked Ensemble,7.306,7.347301041582423
+Norway,NOR,2023,2024,test,Stacked Ensemble,7.262,7.3318575220668745
+Nepal,NPL,2023,2024,test,Stacked Ensemble,5.311,5.0045952812946
+New Zealand,NZL,2023,2024,test,Stacked Ensemble,6.952,7.000416677987925
+Pakistan,PAK,2023,2024,test,Stacked Ensemble,4.768,4.782041831503069
+Panama,PAN,2023,2024,test,Stacked Ensemble,6.407,6.395025679030241
+Peru,PER,2023,2024,test,Stacked Ensemble,5.947,5.804402444148709
+Philippines,PHL,2023,2024,test,Stacked Ensemble,6.107,6.055299459367508
+Poland,POL,2023,2024,test,Stacked Ensemble,6.673,6.406314693364219
+Portugal,PRT,2023,2024,test,Stacked Ensemble,6.013,6.198997305144102
+Paraguay,PRY,2023,2024,test,Stacked Ensemble,6.172,6.05754951455259
+Palestine,PSE,2023,2024,test,Stacked Ensemble,4.78,4.960289971446858
+Romania,ROU,2023,2024,test,Stacked Ensemble,6.563,6.468402603964088
+Russia,RUS,2023,2024,test,Stacked Ensemble,5.945,5.877269602542997
+Saudi Arabia,SAU,2023,2024,test,Stacked Ensemble,6.6,6.520523579554849
+Senegal,SEN,2023,2024,test,Stacked Ensemble,4.856,4.93872803776968
+Singapore,SGP,2023,2024,test,Stacked Ensemble,6.565,6.511252558110595
+Sierra Leone,SLE,2023,2024,test,Stacked Ensemble,2.998,3.3080826919101654
+El Salvador,SLV,2023,2024,test,Stacked Ensemble,6.492,6.403084847469396
+Serbia,SRB,2023,2024,test,Stacked Ensemble,6.606,6.390868015129017
+Slovakia,SVK,2023,2024,test,Stacked Ensemble,6.221,6.276631017987921
+Slovenia,SVN,2023,2024,test,Stacked Ensemble,6.792,6.773961323950646
+Sweden,SWE,2023,2024,test,Stacked Ensemble,7.345,7.365261868196993
+Chad,TCD,2023,2024,test,Stacked Ensemble,4.384,4.460479988802927
+Togo,TGO,2023,2024,test,Stacked Ensemble,4.315,4.323242024517686
+Thailand,THA,2023,2024,test,Stacked Ensemble,6.222,6.028699266825328
+Tajikistan,TJK,2023,2024,test,Stacked Ensemble,5.411,5.272915518866712
+Tunisia,TUN,2023,2024,test,Stacked Ensemble,4.552,4.360613144438487
+Turkey,TUR,2023,2024,test,Stacked Ensemble,5.262,5.016192827010608
+Tanzania,TZA,2023,2024,test,Stacked Ensemble,3.8,3.755599243692506
+Uganda,UGA,2023,2024,test,Stacked Ensemble,4.461,4.321824497540985
+Ukraine,UKR,2023,2024,test,Stacked Ensemble,4.68,4.840926062982995
+Uruguay,URY,2023,2024,test,Stacked Ensemble,6.661,6.532358532432932
+United States,USA,2023,2024,test,Stacked Ensemble,6.724,6.868377217068302
+Uzbekistan,UZB,2023,2024,test,Stacked Ensemble,6.193,6.145895407544451
+Vietnam,VNM,2023,2024,test,Stacked Ensemble,6.352,6.063134910893768
+South Africa,ZAF,2023,2024,test,Stacked Ensemble,5.213,5.439066487677099
+Zambia,ZMB,2023,2024,test,Stacked Ensemble,3.912,3.5500603789622596
+Zimbabwe,ZWE,2023,2024,test,Stacked Ensemble,3.396,3.4068475400503853

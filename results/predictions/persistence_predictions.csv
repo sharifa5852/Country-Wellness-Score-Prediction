@@ -1,0 +1,267 @@
+Country,Code,Year,TargetYear,split,model,y_true,y_pred
+Afghanistan,AFG,2022,2023,val,Persistence,1.721,1.859
+Albania,ALB,2022,2023,val,Persistence,5.304,5.277
+United Arab Emirates,ARE,2022,2023,val,Persistence,6.733,6.571
+Argentina,ARG,2022,2023,val,Persistence,6.188,6.024
+Armenia,ARM,2022,2023,val,Persistence,5.455,5.342
+Australia,AUS,2022,2023,val,Persistence,7.057,7.095
+Austria,AUT,2022,2023,val,Persistence,6.905,7.097
+Belgium,BEL,2022,2023,val,Persistence,6.894,6.859
+Benin,BEN,2022,2023,val,Persistence,4.377,4.374
+Burkina Faso,BFA,2022,2023,val,Persistence,4.548,4.638
+Bangladesh,BGD,2022,2023,val,Persistence,3.886,4.282
+Bulgaria,BGR,2022,2023,val,Persistence,5.463,5.466
+Bahrain,BHR,2022,2023,val,Persistence,5.959,6.173
+Bosnia and Herzegovina,BIH,2022,2023,val,Persistence,5.877,5.633
+Bolivia,BOL,2022,2023,val,Persistence,5.784,5.684
+Brazil,BRA,2022,2023,val,Persistence,6.272,6.125
+Botswana,BWA,2022,2023,val,Persistence,3.383,3.435
+Canada,CAN,2022,2023,val,Persistence,6.9,6.961
+Switzerland,CHE,2022,2023,val,Persistence,7.06,7.24
+Chile,CHL,2022,2023,val,Persistence,6.36,6.334
+China,CHN,2022,2023,val,Persistence,5.973,5.818
+Cote d'Ivoire,CIV,2022,2023,val,Persistence,5.08,5.053
+Cameroon,CMR,2022,2023,val,Persistence,4.874,4.973
+Congo,COG,2022,2023,val,Persistence,5.221,5.267
+Colombia,COL,2022,2023,val,Persistence,5.695,5.63
+Comoros,COM,2022,2023,val,Persistence,3.566,3.545
+Costa Rica,CRI,2022,2023,val,Persistence,6.955,6.609
+Cyprus,CYP,2022,2023,val,Persistence,6.068,6.13
+Czechia,CZE,2022,2023,val,Persistence,6.822,6.845
+Germany,DEU,2022,2023,val,Persistence,6.719,6.892
+Denmark,DNK,2022,2023,val,Persistence,7.583,7.586
+Dominican Republic,DOM,2022,2023,val,Persistence,5.823,5.569
+Algeria,DZA,2022,2023,val,Persistence,5.364,5.329
+Ecuador,ECU,2022,2023,val,Persistence,5.725,5.559
+Egypt,EGY,2022,2023,val,Persistence,3.977,4.17
+Spain,ESP,2022,2023,val,Persistence,6.421,6.436
+Estonia,EST,2022,2023,val,Persistence,6.448,6.455
+Ethiopia,ETH,2022,2023,val,Persistence,3.861,4.091
+Finland,FIN,2022,2023,val,Persistence,7.741,7.804
+France,FRA,2022,2023,val,Persistence,6.609,6.661
+Gabon,GAB,2022,2023,val,Persistence,5.106,5.035
+United Kingdom,GBR,2022,2023,val,Persistence,6.749,6.796
+Georgia,GEO,2022,2023,val,Persistence,5.185,5.109
+Ghana,GHA,2022,2023,val,Persistence,4.289,4.605
+Guinea,GIN,2022,2023,val,Persistence,5.023,5.072
+Gambia,GMB,2022,2023,val,Persistence,4.485,4.279
+Greece,GRC,2022,2023,val,Persistence,5.934,5.931
+Guatemala,GTM,2022,2023,val,Persistence,6.287,6.15
+Hong Kong,HKG,2022,2023,val,Persistence,5.316,5.308
+Honduras,HND,2022,2023,val,Persistence,5.968,6.023
+Croatia,HRV,2022,2023,val,Persistence,5.942,6.125
+Hungary,HUN,2022,2023,val,Persistence,6.017,6.041
+Indonesia,IDN,2022,2023,val,Persistence,5.568,5.277
+India,IND,2022,2023,val,Persistence,4.054,4.036
+Ireland,IRL,2022,2023,val,Persistence,6.838,6.911
+Iran,IRN,2022,2023,val,Persistence,4.923,4.876
+Iraq,IRQ,2022,2023,val,Persistence,5.166,4.941
+Iceland,ISL,2022,2023,val,Persistence,7.525,7.53
+Israel,ISR,2022,2023,val,Persistence,7.341,7.473
+Italy,ITA,2022,2023,val,Persistence,6.324,6.405
+Jamaica,JAM,2022,2023,val,Persistence,5.842,5.703
+Jordan,JOR,2022,2023,val,Persistence,4.186,4.12
+Japan,JPN,2022,2023,val,Persistence,6.06,6.129
+Kazakhstan,KAZ,2022,2023,val,Persistence,6.188,6.144
+Kenya,KEN,2022,2023,val,Persistence,4.47,4.487
+Kyrgyzstan,KGZ,2022,2023,val,Persistence,5.714,5.825
+Cambodia,KHM,2022,2023,val,Persistence,4.341,4.393
+South Korea,KOR,2022,2023,val,Persistence,6.058,5.951
+Laos,LAO,2022,2023,val,Persistence,5.139,5.111
+Lebanon,LBN,2022,2023,val,Persistence,2.707,2.392
+Liberia,LBR,2022,2023,val,Persistence,4.269,4.042
+Sri Lanka,LKA,2022,2023,val,Persistence,3.898,4.442
+Lithuania,LTU,2022,2023,val,Persistence,6.818,6.763
+Luxembourg,LUX,2022,2023,val,Persistence,7.122,7.228
+Latvia,LVA,2022,2023,val,Persistence,6.234,6.213
+Morocco,MAR,2022,2023,val,Persistence,4.795,4.903
+Moldova,MDA,2022,2023,val,Persistence,5.816,5.819
+Madagascar,MDG,2022,2023,val,Persistence,4.228,4.019
+Mexico,MEX,2022,2023,val,Persistence,6.678,6.33
+North Macedonia,MKD,2022,2023,val,Persistence,5.369,5.254
+Mali,MLI,2022,2023,val,Persistence,4.232,4.198
+Malta,MLT,2022,2023,val,Persistence,6.346,6.3
+Myanmar,MMR,2022,2023,val,Persistence,4.354,4.372
+Montenegro,MNE,2022,2023,val,Persistence,5.707,5.722
+Mongolia,MNG,2022,2023,val,Persistence,5.696,5.84
+Mozambique,MOZ,2022,2023,val,Persistence,5.216,4.954
+Mauritania,MRT,2022,2023,val,Persistence,4.505,4.724
+Mauritius,MUS,2022,2023,val,Persistence,5.816,5.902
+Malawi,MWI,2022,2023,val,Persistence,3.421,3.495
+Malaysia,MYS,2022,2023,val,Persistence,5.975,6.012
+Namibia,NAM,2022,2023,val,Persistence,4.832,4.631
+Niger,NER,2022,2023,val,Persistence,4.556,4.501
+Nigeria,NGA,2022,2023,val,Persistence,4.881,4.981
+Nicaragua,NIC,2022,2023,val,Persistence,6.284,6.259
+Netherlands,NLD,2022,2023,val,Persistence,7.319,7.403
+Norway,NOR,2022,2023,val,Persistence,7.302,7.315
+Nepal,NPL,2022,2023,val,Persistence,5.158,5.36
+New Zealand,NZL,2022,2023,val,Persistence,7.029,7.123
+Pakistan,PAK,2022,2023,val,Persistence,4.657,4.555
+Panama,PAN,2022,2023,val,Persistence,6.358,6.265
+Peru,PER,2022,2023,val,Persistence,5.841,5.526
+Philippines,PHL,2022,2023,val,Persistence,6.048,5.523
+Poland,POL,2022,2023,val,Persistence,6.442,6.26
+Portugal,PRT,2022,2023,val,Persistence,6.03,5.968
+Paraguay,PRY,2022,2023,val,Persistence,5.977,5.738
+Palestine,PSE,2022,2023,val,Persistence,4.879,4.908
+Romania,ROU,2022,2023,val,Persistence,6.491,6.589
+Russia,RUS,2022,2023,val,Persistence,5.785,5.661
+Saudi Arabia,SAU,2022,2023,val,Persistence,6.594,6.463
+Senegal,SEN,2022,2023,val,Persistence,4.969,4.855
+Singapore,SGP,2022,2023,val,Persistence,6.523,6.587
+Sierra Leone,SLE,2022,2023,val,Persistence,3.245,3.138
+El Salvador,SLV,2022,2023,val,Persistence,6.469,6.122
+Serbia,SRB,2022,2023,val,Persistence,6.411,6.144
+Slovakia,SVK,2022,2023,val,Persistence,6.257,6.469
+Slovenia,SVN,2022,2023,val,Persistence,6.743,6.65
+Sweden,SWE,2022,2023,val,Persistence,7.344,7.395
+Chad,TCD,2022,2023,val,Persistence,4.471,4.397
+Togo,TGO,2022,2023,val,Persistence,4.214,4.137
+Thailand,THA,2022,2023,val,Persistence,5.976,5.843
+Tajikistan,TJK,2022,2023,val,Persistence,5.281,5.33
+Tunisia,TUN,2022,2023,val,Persistence,4.422,4.497
+Turkey,TUR,2022,2023,val,Persistence,4.975,4.614
+Tanzania,TZA,2022,2023,val,Persistence,3.781,3.694
+Uganda,UGA,2022,2023,val,Persistence,4.372,4.432
+Ukraine,UKR,2022,2023,val,Persistence,4.873,5.071
+Uruguay,URY,2022,2023,val,Persistence,6.611,6.494
+United States,USA,2022,2023,val,Persistence,6.725,6.894
+Uzbekistan,UZB,2022,2023,val,Persistence,6.195,6.014
+Vietnam,VNM,2022,2023,val,Persistence,6.043,5.763
+South Africa,ZAF,2022,2023,val,Persistence,5.422,5.275
+Zambia,ZMB,2022,2023,val,Persistence,3.502,3.982
+Zimbabwe,ZWE,2022,2023,val,Persistence,3.341,3.204
+Afghanistan,AFG,2023,2024,test,Persistence,1.364,1.721
+Albania,ALB,2023,2024,test,Persistence,5.411,5.304
+United Arab Emirates,ARE,2023,2024,test,Persistence,6.759,6.733
+Argentina,ARG,2023,2024,test,Persistence,6.397,6.188
+Armenia,ARM,2023,2024,test,Persistence,5.494,5.455
+Australia,AUS,2023,2024,test,Persistence,6.974,7.057
+Austria,AUT,2023,2024,test,Persistence,6.81,6.905
+Belgium,BEL,2023,2024,test,Persistence,6.91,6.894
+Benin,BEN,2023,2024,test,Persistence,4.357,4.377
+Burkina Faso,BFA,2023,2024,test,Persistence,4.383,4.548
+Bangladesh,BGD,2023,2024,test,Persistence,3.851,3.886
+Bulgaria,BGR,2023,2024,test,Persistence,5.554,5.463
+Bahrain,BHR,2023,2024,test,Persistence,6.03,5.959
+Bosnia and Herzegovina,BIH,2023,2024,test,Persistence,6.136,5.877
+Bolivia,BOL,2023,2024,test,Persistence,5.868,5.784
+Brazil,BRA,2023,2024,test,Persistence,6.494,6.272
+Botswana,BWA,2023,2024,test,Persistence,3.438,3.383
+Canada,CAN,2023,2024,test,Persistence,6.803,6.9
+Switzerland,CHE,2023,2024,test,Persistence,6.935,7.06
+Chile,CHL,2023,2024,test,Persistence,6.361,6.36
+China,CHN,2023,2024,test,Persistence,5.921,5.973
+Cote d'Ivoire,CIV,2023,2024,test,Persistence,5.102,5.08
+Cameroon,CMR,2023,2024,test,Persistence,4.887,4.874
+Congo,COG,2023,2024,test,Persistence,5.03,5.221
+Colombia,COL,2023,2024,test,Persistence,6.004,5.695
+Comoros,COM,2023,2024,test,Persistence,3.754,3.566
+Costa Rica,CRI,2023,2024,test,Persistence,7.274,6.955
+Cyprus,CYP,2023,2024,test,Persistence,5.942,6.068
+Czechia,CZE,2023,2024,test,Persistence,6.775,6.822
+Germany,DEU,2023,2024,test,Persistence,6.753,6.719
+Denmark,DNK,2023,2024,test,Persistence,7.521,7.583
+Dominican Republic,DOM,2023,2024,test,Persistence,5.846,5.823
+Algeria,DZA,2023,2024,test,Persistence,5.571,5.364
+Ecuador,ECU,2023,2024,test,Persistence,5.965,5.725
+Egypt,EGY,2023,2024,test,Persistence,3.817,3.977
+Spain,ESP,2023,2024,test,Persistence,6.466,6.421
+Estonia,EST,2023,2024,test,Persistence,6.417,6.448
+Ethiopia,ETH,2023,2024,test,Persistence,3.898,3.861
+Finland,FIN,2023,2024,test,Persistence,7.736,7.741
+France,FRA,2023,2024,test,Persistence,6.593,6.609
+Gabon,GAB,2023,2024,test,Persistence,5.12,5.106
+United Kingdom,GBR,2023,2024,test,Persistence,6.728,6.749
+Georgia,GEO,2023,2024,test,Persistence,5.4,5.185
+Ghana,GHA,2023,2024,test,Persistence,4.34,4.289
+Guinea,GIN,2023,2024,test,Persistence,4.929,5.023
+Gambia,GMB,2023,2024,test,Persistence,4.423,4.485
+Greece,GRC,2023,2024,test,Persistence,5.776,5.934
+Guatemala,GTM,2023,2024,test,Persistence,6.362,6.287
+Hong Kong,HKG,2023,2024,test,Persistence,5.491,5.316
+Honduras,HND,2023,2024,test,Persistence,5.964,5.968
+Croatia,HRV,2023,2024,test,Persistence,5.87,5.942
+Hungary,HUN,2023,2024,test,Persistence,5.915,6.017
+Indonesia,IDN,2023,2024,test,Persistence,5.617,5.568
+India,IND,2023,2024,test,Persistence,4.389,4.054
+Ireland,IRL,2023,2024,test,Persistence,6.889,6.838
+Iran,IRN,2023,2024,test,Persistence,5.093,4.923
+Iraq,IRQ,2023,2024,test,Persistence,4.976,5.166
+Iceland,ISL,2023,2024,test,Persistence,7.515,7.525
+Israel,ISR,2023,2024,test,Persistence,7.234,7.341
+Italy,ITA,2023,2024,test,Persistence,6.415,6.324
+Jamaica,JAM,2023,2024,test,Persistence,5.87,5.842
+Jordan,JOR,2023,2024,test,Persistence,4.31,4.186
+Japan,JPN,2023,2024,test,Persistence,6.147,6.06
+Kazakhstan,KAZ,2023,2024,test,Persistence,6.378,6.188
+Kenya,KEN,2023,2024,test,Persistence,4.51,4.47
+Kyrgyzstan,KGZ,2023,2024,test,Persistence,5.858,5.714
+Cambodia,KHM,2023,2024,test,Persistence,4.341,4.341
+South Korea,KOR,2023,2024,test,Persistence,6.038,6.058
+Laos,LAO,2023,2024,test,Persistence,5.301,5.139
+Lebanon,LBN,2023,2024,test,Persistence,3.188,2.707
+Liberia,LBR,2023,2024,test,Persistence,4.277,4.269
+Sri Lanka,LKA,2023,2024,test,Persistence,3.891,3.898
+Lithuania,LTU,2023,2024,test,Persistence,6.829,6.818
+Luxembourg,LUX,2023,2024,test,Persistence,7.122,7.122
+Latvia,LVA,2023,2024,test,Persistence,6.207,6.234
+Morocco,MAR,2023,2024,test,Persistence,4.622,4.795
+Moldova,MDA,2023,2024,test,Persistence,5.819,5.816
+Madagascar,MDG,2023,2024,test,Persistence,4.157,4.228
+Mexico,MEX,2023,2024,test,Persistence,6.979,6.678
+North Macedonia,MKD,2023,2024,test,Persistence,5.503,5.369
+Mali,MLI,2023,2024,test,Persistence,4.345,4.232
+Malta,MLT,2023,2024,test,Persistence,6.316,6.346
+Myanmar,MMR,2023,2024,test,Persistence,4.321,4.354
+Montenegro,MNE,2023,2024,test,Persistence,5.877,5.707
+Mongolia,MNG,2023,2024,test,Persistence,5.833,5.696
+Mozambique,MOZ,2023,2024,test,Persistence,5.19,5.216
+Mauritania,MRT,2023,2024,test,Persistence,4.542,4.505
+Mauritius,MUS,2023,2024,test,Persistence,5.832,5.816
+Malawi,MWI,2023,2024,test,Persistence,3.26,3.421
+Malaysia,MYS,2023,2024,test,Persistence,5.955,5.975
+Namibia,NAM,2023,2024,test,Persistence,4.911,4.832
+Niger,NER,2023,2024,test,Persistence,4.725,4.556
+Nigeria,NGA,2023,2024,test,Persistence,4.885,4.881
+Nicaragua,NIC,2023,2024,test,Persistence,6.33,6.284
+Netherlands,NLD,2023,2024,test,Persistence,7.306,7.319
+Norway,NOR,2023,2024,test,Persistence,7.262,7.302
+Nepal,NPL,2023,2024,test,Persistence,5.311,5.158
+New Zealand,NZL,2023,2024,test,Persistence,6.952,7.029
+Pakistan,PAK,2023,2024,test,Persistence,4.768,4.657
+Panama,PAN,2023,2024,test,Persistence,6.407,6.358
+Peru,PER,2023,2024,test,Persistence,5.947,5.841
+Philippines,PHL,2023,2024,test,Persistence,6.107,6.048
+Poland,POL,2023,2024,test,Persistence,6.673,6.442
+Portugal,PRT,2023,2024,test,Persistence,6.013,6.03
+Paraguay,PRY,2023,2024,test,Persistence,6.172,5.977
+Palestine,PSE,2023,2024,test,Persistence,4.78,4.879
+Romania,ROU,2023,2024,test,Persistence,6.563,6.491
+Russia,RUS,2023,2024,test,Persistence,5.945,5.785
+Saudi Arabia,SAU,2023,2024,test,Persistence,6.6,6.594
+Senegal,SEN,2023,2024,test,Persistence,4.856,4.969
+Singapore,SGP,2023,2024,test,Persistence,6.565,6.523
+Sierra Leone,SLE,2023,2024,test,Persistence,2.998,3.245
+El Salvador,SLV,2023,2024,test,Persistence,6.492,6.469
+Serbia,SRB,2023,2024,test,Persistence,6.606,6.411
+Slovakia,SVK,2023,2024,test,Persistence,6.221,6.257
+Slovenia,SVN,2023,2024,test,Persistence,6.792,6.743
+Sweden,SWE,2023,2024,test,Persistence,7.345,7.344
+Chad,TCD,2023,2024,test,Persistence,4.384,4.471
+Togo,TGO,2023,2024,test,Persistence,4.315,4.214
+Thailand,THA,2023,2024,test,Persistence,6.222,5.976
+Tajikistan,TJK,2023,2024,test,Persistence,5.411,5.281
+Tunisia,TUN,2023,2024,test,Persistence,4.552,4.422
+Turkey,TUR,2023,2024,test,Persistence,5.262,4.975
+Tanzania,TZA,2023,2024,test,Persistence,3.8,3.781
+Uganda,UGA,2023,2024,test,Persistence,4.461,4.372
+Ukraine,UKR,2023,2024,test,Persistence,4.68,4.873
+Uruguay,URY,2023,2024,test,Persistence,6.661,6.611
+United States,USA,2023,2024,test,Persistence,6.724,6.725
+Uzbekistan,UZB,2023,2024,test,Persistence,6.193,6.195
+Vietnam,VNM,2023,2024,test,Persistence,6.352,6.043
+South Africa,ZAF,2023,2024,test,Persistence,5.213,5.422
+Zambia,ZMB,2023,2024,test,Persistence,3.912,3.502
+Zimbabwe,ZWE,2023,2024,test,Persistence,3.396,3.341

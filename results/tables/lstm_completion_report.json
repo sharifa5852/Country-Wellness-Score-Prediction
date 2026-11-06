@@ -1,0 +1,36 @@
+{
+  "model": "L4_u16",
+  "sequence_length": 4,
+  "features_per_step": 5,
+  "train_samples": 690,
+  "val_samples": 133,
+  "test_samples": 133,
+  "architecture": {
+    "units": [
+      16
+    ],
+    "dropout": 0.1,
+    "dense": 8,
+    "lr": 0.001,
+    "batch": 32,
+    "patience": 25,
+    "seed": 42
+  },
+  "best_epoch": 108,
+  "val": {
+    "MAE": 0.1705357844990895,
+    "RMSE": 0.2254497839549116,
+    "R2": 0.9605596313022312
+  },
+  "test": {
+    "MAE": 0.1592378172910303,
+    "RMSE": 0.2058727128524767,
+    "R2": 0.967481439332572
+  },
+  "model_path": "models/lstm_selected.keras",
+  "limitations": [
+    "single seed",
+    "small panel for deep learning",
+    "early stopping used the validation rows"
+  ]
+}

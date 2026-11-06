@@ -1,0 +1,13 @@
+{
+  "meta_model": "LinearRegression (intercept + 3 weights)",
+  "primary_variant": "fixed",
+  "fit_rows": "validation only (133 rows, target year 2023)",
+  "val_metric_reported": "5-fold CV inside validation (in-sample also saved)",
+  "test_labels_used_for_fitting": false,
+  "limitations": [
+    "only 133 meta-training rows",
+    "base predictions highly correlated",
+    "single validation year",
+    "LSTM early stopping used validation rows"
+  ]
+}

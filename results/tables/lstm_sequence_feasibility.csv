@@ -1,0 +1,7 @@
+split,seq_len,samples,countries,pct_of_length3
+train,3,842,152,100.0
+train,4,690,147,81.9
+val,3,133,133,100.0
+val,4,133,133,100.0
+test,3,133,133,100.0
+test,4,133,133,100.0
