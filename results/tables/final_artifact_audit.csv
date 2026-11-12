@@ -1,0 +1,62 @@
+artifact,path,exists,loads_and_valid,detail
+Enriched raw dataset,data/raw/whr_worldbank_enriched.csv,True,True,"table (1897, 8)"
+Original raw dataset,data/raw/whr_worldbank_merged.csv,True,True,"table (1897, 5)"
+Corrected supervised dataset,data/processed_v2/supervised_all.csv,True,True,"table (1108, 24)"
+Train split,data/processed_v2/train.csv,True,True,"table (842, 24)"
+Validation split,data/processed_v2/val.csv,True,True,"table (133, 24)"
+Test split,data/processed_v2/test.csv,True,True,"table (133, 24)"
+Train imputed/scaled,data/processed_v2/train_scaled.csv,True,True,"table (842, 23)"
+Val imputed/scaled,data/processed_v2/val_scaled.csv,True,True,"table (133, 23)"
+Test imputed/scaled,data/processed_v2/test_scaled.csv,True,True,"table (133, 23)"
+Train imputed (unscaled),data/processed_v2/train_imputed.csv,True,True,"table (842, 23)"
+Feature specification,data/processed_v2/feature_spec.json,True,True,6 keys
+Feature metadata,data/processed_v2/feature_metadata.json,True,True,7 keys
+Preprocessing metadata,data/processed_v2/preprocessing_metadata.json,True,True,12 keys
+Data dictionary,data/processed_v2/data_dictionary.md,True,True,text 148 lines
+Tabular imputer,models/preprocessing/tabular_imputer.joblib,True,True,model/artifact loads
+Tabular scaler,models/preprocessing/tabular_scaler.joblib,True,True,model/artifact loads
+LSTM sequences (L3),data/processed_v2/lstm_sequences.npz,True,True,17 arrays
+LSTM sequences (L4),data/processed_v2/lstm_seq_len4.npz,True,True,11 arrays
+Temporal alignment audit,results/tables/temporal_alignment_audit_by_year.csv,True,True,"table (13, 5)"
+Temporal strategy decision,results/tables/temporal_strategy_decision.json,True,True,9 keys
+Missing-value policy,results/tables/missing_data_policy.json,True,True,7 keys
+Phase 1 validation report,results/tables/phase1_validation_report.json,True,True,8 keys
+Persistence predictions,results/predictions/persistence_predictions.csv,True,True,"table (266, 8)"
+Linear Regression model,models/linear_regression.joblib,True,True,model/artifact loads
+Linear Regression predictions,results/predictions/linear_regression_predictions.csv,True,True,"table (266, 8)"
+Random Forest model,models/random_forest.joblib,True,True,model/artifact loads
+Random Forest config,models/random_forest_config.json,True,True,10 keys
+Random Forest predictions,results/predictions/random_forest_predictions.csv,True,True,"table (266, 8)"
+XGBoost model,models/xgboost.joblib,True,True,model/artifact loads
+XGBoost config,models/xgboost_config.json,True,True,14 keys
+XGBoost predictions,results/predictions/xgboost_predictions.csv,True,True,"table (266, 8)"
+LSTM model (selected),models/lstm_selected.keras,True,True,keras model loads
+LSTM selection record,results/tables/lstm_selected.json,True,True,13 keys
+LSTM predictions,results/predictions/lstm_predictions.csv,True,True,"table (266, 8)"
+Stacking meta-model (primary),models/stacking_meta_fixed.joblib,True,True,model/artifact loads
+Stacking base predictions,results/predictions/stacking_base_predictions_fixed.csv,True,True,"table (266, 9)"
+Stacked predictions,results/predictions/stacked_predictions.csv,True,True,"table (266, 8)"
+Baseline results table,results/tables/baseline_results.csv,True,True,"table (4, 11)"
+Six-model comparison table,results/tables/master_model_comparison.csv,True,True,"table (6, 13)"
+Phase 2 report,results/tables/phase2_report.json,True,True,4 keys
+README,README.md,True,True,text 163 lines
+requirements,requirements.txt,True,True,text 11 lines
+environment notes,ENVIRONMENT.md,True,True,text 34 lines
+clean notebook,notebooks/CountryWellness_pipeline_clean.ipynb,True,True,"77 cells, outputs cleared"
+data dictionary (new),data/processed_v2/data_dictionary.md,True,True,text 148 lines
+source: modeling_utils,src/modeling_utils.py,True,True,text 178 lines
+source: experiment_utils,src/experiment_utils.py,True,True,text 71 lines
+source: git_utils,src/git_utils.py,True,True,text 124 lines
+Phase 3 validation,results/tables/phase3_experiment_validation.csv,True,True,"table (26, 3)"
+Phase 2 report,results/tables/phase2_report.md,True,True,text 46 lines
+random-split results,results/tables/random_split_results.csv,True,True,"table (40, 9)"
+rolling-origin results,results/tables/rolling_origin_results.csv,True,True,"table (25, 9)"
+SHAP importance,results/tables/shap_global_importance.csv,True,True,"table (18, 7)"
+worst-10 errors,results/tables/worst_10_country_errors.csv,True,True,"table (60, 10)"
+figure 1,results/figures/final_fig1_six_model_test_comparison.png,True,True,PNG 134 KB
+figure 2,results/figures/final_fig2_actual_vs_predicted.png,True,True,PNG 123 KB
+figure 3,results/figures/final_fig3_random_vs_chronological.png,True,True,PNG 208 KB
+figure 4,results/figures/final_fig4_rolling_rmse.png,True,True,PNG 144 KB
+figure 5,results/figures/final_fig5_rolling_mae.png,True,True,PNG 139 KB
+figure 6,results/figures/final_fig6_shap_global_importance.png,True,True,PNG 159 KB
+figure 7,results/figures/final_fig7_worst_country_errors.png,True,True,PNG 94 KB

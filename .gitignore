@@ -16,3 +16,5 @@ Thumbs.db
 # *.joblib
 # *.h5
 # *.pt
+*.bak
+results/_backups/

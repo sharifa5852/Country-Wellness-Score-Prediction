@@ -1,0 +1,19 @@
+rank,feature,mean_abs_shap,share_pct,lag,base_variable,meaning
+1,HappinessScore,0.9398989769393452,97.33078582758567,t (current year),HappinessScore,"WHR Cantril ladder average, 0-10"
+2,InternetAccessPct_WB,0.006963266562005227,0.721077714770889,t (current year),InternetAccessPct_WB,Individuals using the internet
+3,HealthExpenditurePctGDP_WB_lag2,0.0048657588607323495,0.5038713150904724,t-2 (calendar),HealthExpenditurePctGDP_WB,Current health expenditure
+4,InternetAccessPct_WB_lag1,0.0027109867114314635,0.2807349230775836,t-1 (calendar),InternetAccessPct_WB,Individuals using the internet
+5,HappinessScore_lag1,0.002447840435101293,0.2534849371841833,t-1 (calendar),HappinessScore,"WHR Cantril ladder average, 0-10"
+6,HappinessScore_lag2,0.0019701359452525716,0.20401647883800247,t-2 (calendar),HappinessScore,"WHR Cantril ladder average, 0-10"
+7,log_GDPPerCapita_WB_lag1,0.0012570392360728697,0.1301720926024329,t-1 (calendar),log_GDPPerCapita_WB,"GDP per capita (PPP, World Bank)"
+8,HealthExpenditurePctGDP_WB_lag1,0.0012073873616474918,0.1250304166625659,t-1 (calendar),HealthExpenditurePctGDP_WB,Current health expenditure
+9,HealthExpenditurePctGDP_WB,0.001126515808851366,0.11665580196687188,t (current year),HealthExpenditurePctGDP_WB,Current health expenditure
+10,log_GDPPerCapita_WB,0.0008402366484200257,0.08701030140299379,t (current year),log_GDPPerCapita_WB,"GDP per capita (PPP, World Bank)"
+11,InternetAccessPct_WB_lag2,0.0007812175359156798,0.08089860563585882,t-2 (calendar),InternetAccessPct_WB,Individuals using the internet
+12,UnemploymentRate_WB_lag2,0.0005546671050579696,0.05743828489291792,t-2 (calendar),UnemploymentRate_WB,Unemployment rate
+13,UnemploymentRate_WB,0.0004473861350670907,0.04632885572047642,t (current year),UnemploymentRate_WB,Unemployment rate
+14,log_GDPPerCapita_WB_lag2,0.0003739108824472234,0.03872016132689421,t-2 (calendar),log_GDPPerCapita_WB,"GDP per capita (PPP, World Bank)"
+15,UnemploymentRate_WB_lag1,0.00022958228793485365,0.023774283242183347,t-1 (calendar),UnemploymentRate_WB,Unemployment rate
+16,UnemploymentRate_WB_was_missing,0.0,0.0,t,UnemploymentRate_WB(missing flag),1 if UnemploymentRate_WB was missing at year t in the source
+17,InternetAccessPct_WB_was_missing,0.0,0.0,t,InternetAccessPct_WB(missing flag),1 if InternetAccessPct_WB was missing at year t in the source
+18,HealthExpenditurePctGDP_WB_was_missing,0.0,0.0,t,HealthExpenditurePctGDP_WB(missing flag),1 if HealthExpenditurePctGDP_WB was missing at year t in the source

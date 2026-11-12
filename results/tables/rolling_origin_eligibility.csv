@@ -1,0 +1,8 @@
+forecast_year,train_samples,eval_samples,train_target_years,train_origin_years,eval_countries,eligible,reason_if_skipped,in_requested_range
+2018,143,143,2017-2017,2016-2016,143,False,only 143 training rows (< 180),True
+2019,286,142,2017-2018,2016-2017,142,True,,True
+2020,428,140,2017-2019,2016-2018,140,True,,True
+2021,568,141,2017-2020,2016-2019,141,True,,True
+2022,709,133,2017-2021,2016-2020,133,True,,True
+2023,842,133,2017-2022,2016-2021,133,True,,True
+2024,975,133,2017-2023,2016-2022,133,True,,False

@@ -1,0 +1,9 @@
+base_variable,mean_abs_shap_sum,share_pct
+HappinessScore,0.9443169533196991,97.78828724360785
+InternetAccessPct_WB,0.010455470809352371,1.0827112434843313
+HealthExpenditurePctGDP_WB,0.007199662031231208,0.7455575337199102
+log_GDPPerCapita_WB,0.002471186766940119,0.25590255533232087
+UnemploymentRate_WB,0.001231635528059914,0.12754142385557768
+HealthExpenditurePctGDP_WB(missing flag),0.0,0.0
+InternetAccessPct_WB(missing flag),0.0,0.0
+UnemploymentRate_WB(missing flag),0.0,0.0

@@ -3,7 +3,7 @@
 import os, re, json, shutil, stat, subprocess, tempfile, datetime
 
 TOKEN_RE = re.compile(r"gh[pousr]_[A-Za-z0-9]{4,}|github_pat_[A-Za-z0-9_]{4,}")
-URL_CRED_RE = re.compile(r"https?://[^/\s@:]+:[^/\s@]+@|https?://[^/\s@]{20,}@")
+URL_CRED_RE = re.compile(r"https?://[A-Za-z0-9_.\-]{1,60}:[A-Za-z0-9_\-.%~]{6,}@")
 TEXT_EXT = {".py", ".md", ".txt", ".json", ".csv", ".ipynb", ".yml", ".yaml", ".cfg", ".toml", ".ini", ".sh", ".gitignore", ""}
 MAX_COMMIT_MB = 50
 

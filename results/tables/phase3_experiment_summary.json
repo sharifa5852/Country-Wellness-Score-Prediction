@@ -1,0 +1,39 @@
+{
+  "random_split": {
+    "seeds": 10,
+    "models": [
+      "Persistence",
+      "Linear Regression",
+      "Random Forest",
+      "XGBoost"
+    ],
+    "mean_future_in_train_pct": 83.1081081081081,
+    "mean_target_visible_pct": 69.05405405405406
+  },
+  "rolling_origin": {
+    "evaluated_years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "skipped_years": [
+      2018
+    ],
+    "mean_RMSE": {
+      "Persistence": 0.18502018881532634,
+      "Linear Regression": 0.18195611337153703,
+      "Random Forest": 0.20939159207580652,
+      "XGBoost": 0.2021029494064743
+    },
+    "years_with_lowest_RMSE": {
+      "Persistence": 2,
+      "Linear Regression": 4,
+      "Random Forest": 0,
+      "XGBoost": 0
+    }
+  },
+  "note": "LSTM and stacking were not repeated in Experiments A and B (time budget)."
+}

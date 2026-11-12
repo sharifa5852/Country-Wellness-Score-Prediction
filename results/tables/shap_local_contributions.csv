@@ -1,0 +1,55 @@
+feature,feature_value,shap,abs_shap,example,Country
+HappinessScore,7.741,2.1212611648067834,2.1212611648067834,highest_actual_score,Finland
+HappinessScore_lag1,7.804,0.008448188886977731,0.008448188886977731,highest_actual_score,Finland
+InternetAccessPct_WB,93.51385,-0.0069660374708473685,0.0069660374708473685,highest_actual_score,Finland
+InternetAccessPct_WB_lag1,92.98879,-0.002536621905164793,0.002536621905164793,highest_actual_score,Finland
+HappinessScore_lag2,7.821,-0.001534581114538014,0.001534581114538014,highest_actual_score,Finland
+HealthExpenditurePctGDP_WB_lag2,9.909698,0.00134223053464666,0.00134223053464666,highest_actual_score,Finland
+HealthExpenditurePctGDP_WB,10.473895,0.0008739217882975936,0.0008739217882975936,highest_actual_score,Finland
+InternetAccessPct_WB_lag2,92.80806,-0.0007425212254747748,0.0007425212254747748,highest_actual_score,Finland
+log_GDPPerCapita_WB,10.93403100694907,0.000577375995926559,0.000577375995926559,highest_actual_score,Finland
+HealthExpenditurePctGDP_WB_lag1,9.741526,0.00040461575612425803,0.00040461575612425803,highest_actual_score,Finland
+log_GDPPerCapita_WB_lag1,10.95200416272172,0.00030262617859989406,0.00030262617859989406,highest_actual_score,Finland
+log_GDPPerCapita_WB_lag2,10.947122136124902,-0.0002239863807335496,0.0002239863807335496,highest_actual_score,Finland
+UnemploymentRate_WB,7.149,-0.0001488192891702056,0.0001488192891702056,highest_actual_score,Finland
+UnemploymentRate_WB_lag2,7.617,9.375672554597259e-05,9.375672554597259e-05,highest_actual_score,Finland
+UnemploymentRate_WB_lag1,6.719,-2.6456972118467093e-05,2.6456972118467093e-05,highest_actual_score,Finland
+UnemploymentRate_WB_was_missing,0.0,0.0,0.0,highest_actual_score,Finland
+InternetAccessPct_WB_was_missing,0.0,0.0,0.0,highest_actual_score,Finland
+HealthExpenditurePctGDP_WB_was_missing,0.0,0.0,0.0,highest_actual_score,Finland
+HappinessScore,1.721,-2.646572882407345,2.646572882407345,lowest_actual_score,Afghanistan
+HealthExpenditurePctGDP_WB_lag2,21.508444,-0.14418104148469865,0.14418104148469865,lowest_actual_score,Afghanistan
+HealthExpenditurePctGDP_WB_lag1,23.08817,-0.038531505439896134,0.038531505439896134,lowest_actual_score,Afghanistan
+HealthExpenditurePctGDP_WB,14.985763,-0.032479992783628404,0.032479992783628404,lowest_actual_score,Afghanistan
+UnemploymentRate_WB_lag2,12.006,-0.014594568819738925,0.014594568819738925,lowest_actual_score,Afghanistan
+UnemploymentRate_WB_lag1,14.1,-0.007948454385623336,0.007948454385623336,lowest_actual_score,Afghanistan
+UnemploymentRate_WB,14.008,-0.007797335421200841,0.007797335421200841,lowest_actual_score,Afghanistan
+log_GDPPerCapita_WB_lag1,7.591715488255849,-0.005020228028297424,0.005020228028297424,lowest_actual_score,Afghanistan
+HappinessScore_lag1,1.859,-0.002478963127359748,0.002478963127359748,lowest_actual_score,Afghanistan
+HappinessScore_lag2,2.404,0.0015262785367667676,0.0015262785367667676,lowest_actual_score,Afghanistan
+log_GDPPerCapita_WB,7.592775827738442,-0.0015022317413240672,0.0015022317413240672,lowest_actual_score,Afghanistan
+InternetAccessPct_WB_lag2,16.5143,-0.0007052239309996367,0.0007052239309996367,lowest_actual_score,Afghanistan
+InternetAccessPct_WB_lag1,15.8663,0.0006448154733516276,0.0006448154733516276,lowest_actual_score,Afghanistan
+InternetAccessPct_WB,15.9284,-0.0004141805088147521,0.0004141805088147521,lowest_actual_score,Afghanistan
+log_GDPPerCapita_WB_lag2,7.6705061777575105,0.00011260403785854577,0.00011260403785854577,lowest_actual_score,Afghanistan
+UnemploymentRate_WB_was_missing,0.0,0.0,0.0,lowest_actual_score,Afghanistan
+InternetAccessPct_WB_was_missing,0.0,0.0,0.0,lowest_actual_score,Afghanistan
+HealthExpenditurePctGDP_WB_was_missing,0.0,0.0,0.0,lowest_actual_score,Afghanistan
+HappinessScore,3.245,-2.118735227463767,2.118735227463767,largest_error,Sierra Leone
+HealthExpenditurePctGDP_WB_lag2,5.0724463,0.02167496587149799,0.02167496587149799,largest_error,Sierra Leone
+HealthExpenditurePctGDP_WB_lag1,4.8037744,0.0052071987488307055,0.0052071987488307055,largest_error,Sierra Leone
+HealthExpenditurePctGDP_WB,4.71883,0.003555889748968184,0.003555889748968184,largest_error,Sierra Leone
+UnemploymentRate_WB_lag2,3.551,0.002102508686948568,0.002102508686948568,largest_error,Sierra Leone
+HappinessScore_lag1,3.138,-0.0015957040432840585,0.0015957040432840585,largest_error,Sierra Leone
+UnemploymentRate_WB,3.092,0.0013795583136379718,0.0013795583136379718,largest_error,Sierra Leone
+log_GDPPerCapita_WB,8.017948910913566,-0.000700825466774404,0.000700825466774404,largest_error,Sierra Leone
+InternetAccessPct_WB_lag2,18.6539,-0.0006560955196619033,0.0006560955196619033,largest_error,Sierra Leone
+log_GDPPerCapita_WB_lag2,7.954859759028093,-0.0006273544626310468,0.0006273544626310468,largest_error,Sierra Leone
+UnemploymentRate_WB_lag1,3.137,0.0004900675895623863,0.0004900675895623863,largest_error,Sierra Leone
+HappinessScore_lag2,3.574,0.00040081502869725226,0.00040081502869725226,largest_error,Sierra Leone
+InternetAccessPct_WB,23.7136,-0.0003569134185090661,0.0003569134185090661,largest_error,Sierra Leone
+log_GDPPerCapita_WB_lag1,7.984371825234197,8.100836537778378e-05,8.100836537778378e-05,largest_error,Sierra Leone
+InternetAccessPct_WB_lag1,21.5088,-7.830329355783761e-05,7.830329355783761e-05,largest_error,Sierra Leone
+UnemploymentRate_WB_was_missing,0.0,0.0,0.0,largest_error,Sierra Leone
+InternetAccessPct_WB_was_missing,0.0,0.0,0.0,largest_error,Sierra Leone
+HealthExpenditurePctGDP_WB_was_missing,0.0,0.0,0.0,largest_error,Sierra Leone

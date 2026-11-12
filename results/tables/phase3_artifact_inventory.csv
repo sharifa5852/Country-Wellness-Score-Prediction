@@ -1,0 +1,41 @@
+Artifact,Exists?,Loads successfully?,Shape/type,Action,File
+Enriched raw dataset,True,True,"table (1897, 8)",none,data/raw/whr_worldbank_enriched.csv
+Original raw dataset,True,True,"table (1897, 5)",none,data/raw/whr_worldbank_merged.csv
+Corrected supervised dataset,True,True,"table (1108, 24)",none,data/processed_v2/supervised_all.csv
+Train split,True,True,"table (842, 24)",none,data/processed_v2/train.csv
+Validation split,True,True,"table (133, 24)",none,data/processed_v2/val.csv
+Test split,True,True,"table (133, 24)",none,data/processed_v2/test.csv
+Train imputed/scaled,True,True,"table (842, 23)",none,data/processed_v2/train_scaled.csv
+Val imputed/scaled,True,True,"table (133, 23)",none,data/processed_v2/val_scaled.csv
+Test imputed/scaled,True,True,"table (133, 23)",none,data/processed_v2/test_scaled.csv
+Train imputed (unscaled),True,True,"table (842, 23)",none,data/processed_v2/train_imputed.csv
+Feature specification,True,True,json with 6 keys,none,data/processed_v2/feature_spec.json
+Feature metadata,True,True,json with 7 keys,none,data/processed_v2/feature_metadata.json
+Preprocessing metadata,True,True,json with 12 keys,none,data/processed_v2/preprocessing_metadata.json
+Data dictionary,True,True,"text, 148 lines",none,data/processed_v2/data_dictionary.md
+Tabular imputer,True,True,SimpleImputer,none,models/preprocessing/tabular_imputer.joblib
+Tabular scaler,True,True,StandardScaler,none,models/preprocessing/tabular_scaler.joblib
+LSTM sequences (L3),True,True,"arrays X_train(842, 3, 5), X_val(133, 3, 5) ...",none,data/processed_v2/lstm_sequences.npz
+LSTM sequences (L4),True,True,"arrays X_train(690, 4, 5), X_val(133, 4, 5) ...",none,data/processed_v2/lstm_seq_len4.npz
+Temporal alignment audit,True,True,"table (13, 5)",none,results/tables/temporal_alignment_audit_by_year.csv
+Temporal strategy decision,True,True,json with 9 keys,none,results/tables/temporal_strategy_decision.json
+Missing-value policy,True,True,json with 7 keys,none,results/tables/missing_data_policy.json
+Phase 1 validation report,True,True,json with 8 keys,none,results/tables/phase1_validation_report.json
+Persistence predictions,True,True,"table (266, 8)",none,results/predictions/persistence_predictions.csv
+Linear Regression model,True,True,LinearRegression,none,models/linear_regression.joblib
+Linear Regression predictions,True,True,"table (266, 8)",none,results/predictions/linear_regression_predictions.csv
+Random Forest model,True,True,RandomForestRegressor,none,models/random_forest.joblib
+Random Forest config,True,True,json with 10 keys,none,models/random_forest_config.json
+Random Forest predictions,True,True,"table (266, 8)",none,results/predictions/random_forest_predictions.csv
+XGBoost model,True,True,XGBRegressor,none,models/xgboost.joblib
+XGBoost config,True,True,json with 14 keys,none,models/xgboost_config.json
+XGBoost predictions,True,True,"table (266, 8)",none,results/predictions/xgboost_predictions.csv
+LSTM model (selected),True,True,"keras model, input (None, 4, 5)",none,models/lstm_selected.keras
+LSTM selection record,True,True,json with 13 keys,none,results/tables/lstm_selected.json
+LSTM predictions,True,True,"table (266, 8)",none,results/predictions/lstm_predictions.csv
+Stacking meta-model (primary),True,True,LinearRegression,none,models/stacking_meta_fixed.joblib
+Stacking base predictions,True,True,"table (266, 9)",none,results/predictions/stacking_base_predictions_fixed.csv
+Stacked predictions,True,True,"table (266, 8)",none,results/predictions/stacked_predictions.csv
+Baseline results table,True,True,"table (4, 11)",none,results/tables/baseline_results.csv
+Six-model comparison table,True,True,"table (6, 13)",none,results/tables/master_model_comparison.csv
+Phase 2 report,True,True,json with 4 keys,none,results/tables/phase2_report.json

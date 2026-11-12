@@ -1,0 +1,27 @@
+check,result,detail
+random split: 10 seeds completed for every model,PASS,"{'Linear Regression': 10, 'Persistence': 10, 'Random Forest': 10, 'XGBoost': 10}"
+random split: all metrics present and finite,PASS,
+random split: predictions match their identifiers and real targets,PASS,
+"random split: each seed's test set has 222 rows, train 886, no overlap",PASS,
+random split: metrics recomputed from saved predictions match the results table,PASS,
+random vs chronological comparison table complete,PASS,
+rolling: every training fold used only targets earlier than its forecast year,PASS,
+rolling: evaluation rows have TargetYear == forecast year,PASS,
+rolling: skipped years are documented with a reason,PASS,[2018]
+rolling: every eligible year has all 4 models,PASS,
+rolling: metrics finite,PASS,
+rolling: 2023 fold reproduces the Phase 2 validation RMSE (independent cross-check),PASS,
+rolling: predictions match real targets,PASS,
+"SHAP: importance table has exactly the 18 model features, no target column",PASS,
+"SHAP: values table is (133 rows, 18 features) in model order",PASS,
+SHAP: contributions + base value reproduce the model predictions,PASS,
+"SHAP: model chosen on chronological validation (not test, not random split)",PASS,
+SHAP: local explanations add up,PASS,
+error analysis recomputes the saved Phase 2 test RMSE for all six models,PASS,
+worst-10 table: 10 rows for each of 6 models,PASS,
+all 16 Phase 3 figures exist and are non-trivial,PASS,[]
+all Phase 3 CSV tables load and are not empty,PASS,[]
+hyperparameters used in Phase 3 == Phase 2 validation-selected values (none retuned),PASS,
+selection tables contain no test columns,PASS,
+Phase 3 chronological comparisons read the saved Phase 2 predictions (test rows 133 each),PASS,
+generated Phase 3 text files contain no causal wording,PASS,[]
